@@ -5,7 +5,7 @@ version: 2
 jobs:
   deploy:
     docker:
-      - image: debian:stable
+      - image: debian:stretch
     working_directory: /content
     steps:
       - checkout
