@@ -5,7 +5,7 @@ version: 2
 jobs:
   deploy:
     docker:
-      - image: debian:stretch
+      - image: debian
     working_directory: /content
     steps:
       - checkout
@@ -14,6 +14,7 @@ jobs:
           command: |
             cd /
             tar -zcvf content.tar.gz /content
+            apt-get install openssh-client
             scp -o StrictHostKeyChecking=no content.tar.gz root@softsideoftech.com:
             ssh -o StrictHostKeyChecking=no root@softsideoftech.com 'tar -xvf content.tar.gz'
 
