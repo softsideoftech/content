@@ -18,7 +18,7 @@ jobs:
             apt-get -y install openssh-client
             scp -o StrictHostKeyChecking=no content.tar.gz root@softsideoftech.com:
             ssh -o StrictHostKeyChecking=no root@softsideoftech.com 'tar -xvf content.tar.gz'
-
+            ssh -o StrictHostKeyChecking=no root@softsideoftech.com 'service softside restart'
 workflows:
   version: 2
   build-deploy:
