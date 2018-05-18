@@ -14,7 +14,8 @@ jobs:
           command: |
             cd /
             tar -zcvf content.tar.gz /content
-            apt-get install openssh-client
+            apt-get update
+            apt-get -y install openssh-client
             scp -o StrictHostKeyChecking=no content.tar.gz root@softsideoftech.com:
             ssh -o StrictHostKeyChecking=no root@softsideoftech.com 'tar -xvf content.tar.gz'
 
