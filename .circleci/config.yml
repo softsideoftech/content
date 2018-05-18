@@ -6,13 +6,14 @@ jobs:
   deploy:
     docker:
       - image: debian
-    working_directory: /
+    working_directory: /content
     steps:
       - checkout
       - run:
           name: Copy content to production
           command: |
-            tar -zcvf content.tar.gz content/
+            cd /
+            tar -zcvf content.tar.gz /content
             scp -o StrictHostKeyChecking=no content.tar.gz root@softsideoftech.com:
             ssh -o StrictHostKeyChecking=no root@softsideoftech.com 'tar -xvf content.tar.gz'
 
