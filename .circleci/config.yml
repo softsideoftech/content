@@ -6,12 +6,11 @@ jobs:
   deploy:
     docker:
       - image: debian
-    working_directory: /go/src/softside
+    working_directory: /
     steps:
-      - restore_cache:
-          key: softside-master
+      - checkout
       - run:
-          name: Copy build output to server and restart the service
+          name: Copy content to production
           command: |
             tar -zcvf content.tar.gz content/
             scp -o StrictHostKeyChecking=no content.tar.gz root@softsideoftech.com:
