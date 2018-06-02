@@ -1,21 +1,20 @@
 # I Traded Safety For Meaning Without Realizing How It Would Cost Me
 >> _June 4th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
-I remember the moment when I decided to quit my job (and career) and move with my family to The Netherlands. It was a weekday night, the girls had just gone to sleep, and Stacya (my wife) and I were having what seemed like a casual chat on the couch. I had had another demoralizing day at work. I can't remember what happened, maybe it was nothing at all.
+<b>I</b> remember the moment when I decided to quit my job (and career) and move with my family to The Netherlands. It was a weekday night, the girls had just gone to sleep, and Stacya (my wife) and I were having what seemed like a casual chat on the couch. I had had another demoralizing day at work. I can't remember what happened, maybe it was nothing at all.
 
 It was not long after I started coaching people, not as a manager, but as an "integral coach". My life finally had a sense of purpose to it! And my day-to-day of building a tech-enabled mortgage product--while constantly feeling like I was being judged as inadequate--felt meaningless by comparison. It was mostly meaningless even without the comparison, but I needed the contrast to notice it and really feel it. I was coming up on my one-year anniversary at the company and the idea of doing it for another year provoked an existential crisis within me. 
 
 So while Stacya and I were relaxing and chatting on the couch, we decided we were going to leave the Silicon Valley life behind. An hour later we had booked one-way tickets to Amsterdam. 
 
+## The Safety Bubble
 
-The Safety Bubble
-
-Over the past two years, I had started to realize that I had been spending most of my life building up a soft, cushiony bubble of safety around me, often through being a high-achiever at school and at work. Getting away from that artificial sense of security was part of my motivation to do inner work. I wanted to feel ok about myself without relying on something from the outside to prop me up. Cutting myself loose from the tech world seemed like the biggest and most obvious step I could take in that direction. I had no idea that it was going to be one of the most painful and uncomfortable experiences of my life. Money, status, social contact--all of my external affirmation--were linked to my job. Leaving my job and not replacing it with another "better" job tore a gaping hole in my bubble and all the pain of the outside world came rushing in. 
+<b>O</b>ver the past two years, I had started to realize that I had been spending most of my life building up a soft, cushiony bubble of safety around me, often through being a high-achiever at school and at work. Getting away from that artificial sense of security was part of my motivation to do inner work. I wanted to feel ok about myself without relying on something from the outside to prop me up. Cutting myself loose from the tech world seemed like the biggest and most obvious step I could take in that direction. I had no idea that it was going to be one of the most painful and uncomfortable experiences of my life. Money, status, social contact--all of my external affirmation--were linked to my job. Leaving my job and not replacing it with another "better" job tore a gaping hole in my bubble and all the pain of the outside world came rushing in. 
 
 At least that's what it felt like at the time. I know now, intellectually at least, that it's really a sense of deficiency that I felt on the inside and it had little to do with the world around me. But a year ago, I didn't understand this. Maybe if I did, I could have acted differently.
 
 
-Money == Safety
+### Money == Safety
 
 My sense of safety was built on both money and status. But it was the money that led me to do things I'd later regret. It's not like I desperately needed more of it. We had significant savings that we theoretically could have lived off for five years comfortably in almost any place other than SF, maybe ten if we were frugal. But life is longer than that and I was finally ready for my freedom. My years of indentured servitude were over, I told myself, and I didn't want to be beholden to anyone else for my livelihood any longer. I wanted to coach people, to write, to fall in love with coding again, to travel the world. None of those things seemed compatible with holding down another high powered job. Except, I still needed the money that came with it, both to live and to feel safe.
 
@@ -38,9 +37,9 @@ I regret it.
 Jeff, if you're reading this, I'm sorry. I imagine you were in pain and discomfort after that difficult day. No one deserves to be emotionally dumped on like I dumped on you. You were not responsible for my emotional state. You were not responsible for how I felt in reaction to any of the conversations we had in the year that we worked together. My feelings were my own and it was on me to change what I could if I didn't like them. 
 
 
-Growth comes at a cost
+## Growth comes at a cost
 
-As I've done more inner work and slowly peeled back my decades of repression, I've had a lot more experiences like these. It's as if I'm that temperamental 9 year-old all over again, desperately seeking love and approval in those moments when I feel worthless myself. So many times in the past year I've lashed out at Stacya during a difficult moment between us when I thought she was judging me instead of giving me the affirmation I needed to feel ok. I'm grateful that both her and my commitment to our relationship has stayed unconditional through some of the more difficult days.
+<b>A</b>s I've done more inner work and slowly peeled back my decades of repression, I've had a lot more experiences like these. It's as if I'm that temperamental 9 year-old all over again, desperately seeking love and approval in those moments when I feel worthless myself. So many times in the past year I've lashed out at Stacya during a difficult moment between us when I thought she was judging me instead of giving me the affirmation I needed to feel ok. I'm grateful that both her and my commitment to our relationship has stayed unconditional through some of the more difficult days.
 
 Over the past year and a half, I often felt like all of my self-exploration and opening up had brought me more pain than comfort. But at the same time I think I'm more honest and grounded than I've ever been in my life. I'm more in touch with myself, but that comes at the price of intensely feeling certain painful beliefs about myself. Beliefs that aren't true. A big one is that I don't have intrinsic value in the world and that I am not worthy of love--that I must constantly do things like produce "good work" or care for my family in order to have value in the world. 
 
