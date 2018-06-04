@@ -1,9 +1,11 @@
 # How My Hidden Motivations Drove Me To Reevaluate My Life
 >> _April 3rd, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
-![][lead-image-jpg]
+![](https://d235962hz41e70.cloudfront.net/escalator.jpeg)
 
-<b>A</b>s I look back at my job at Clara Lending, I remember starting off with a powerful energy. I was proud of my accomplishments in my first six months and I think others there would agree. But just a year later I walked away disillusioned and demotivated with mutual frustration between me and my boss, Jeff--the CEO. I've had a lot of shame and guilt about my private thoughts and behavior at Clara. It's been painful for me to honestly reflect on what happened for me. It's part of larger process of taking a step back from my ego that started a number of years ago and culminated with my quitting not just Clara, but whole the corporate world and Silicon Valley in general. This is the story of what my real motivations were going into Clara and how they played into my big shift in life.
+<b>A</b>s I look back at my job at Clara Lending, I remember starting off with a powerful energy. I was proud of my accomplishments in my first six months and I think others there would agree. But just a year later I walked away disillusioned and demotivated with mutual frustration between me and my boss, Jeff--the CEO. 
+
+I've had a lot of shame and guilt about my private thoughts and behavior at Clara. It's been painful for me to honestly reflect on what happened for me. It's part of larger process of taking a step back from my ego that started a number of years ago and culminated with my quitting not just Clara, but whole the corporate world and Silicon Valley in general. This is the story of what my real motivations were going into Clara and how they played into my big shift in life.
 
 ---
 
@@ -75,5 +77,3 @@ I only said reprocessed bits of these thoughts out loud, but my mind was screami
 Jeff was doing the best he could from the life philosophy that he held, which was different from mine. As our tensions grew, I tried to contort myself to be more palatable to his world view. I sensed he was doing the same for me. Feeling fake was the most uncomfortable part of it all. I remember playing the same game with my previous boss when I was at Workday. In both cases, I got to the point where I was constantly anxious and dreading every interaction. 
 
 But something changed for me at Clara. I couldn't bear constantly holding back and not being my true self anymore. My year there was the last straw and my proverbial back was broken. Something in me was shifting in a big way. In April 2017, I decided to quit not just Clara, but also the corporate world and the whole of Silicon Valley. The whole culture had become an emotional trigger for me and I needed to be free of it. So a few months after leaving Clara, I put up my SF condo for rent and moved with my wife and two little girls to The Netherlands. I'm now living a simple life in a quiet mid-sized city working as a coach for a handful of people, who themselves are leaders in the SF tech industry like I used to be.
-
-[lead-image-jpg]: https://d235962hz41e70.cloudfront.net/escalator.jpeg

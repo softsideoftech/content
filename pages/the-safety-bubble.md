@@ -1,11 +1,15 @@
 # I Traded Safety For Meaning Without Realizing How It Would Cost Me
 >> _June 4th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
+![](https://d235962hz41e70.cloudfront.net/bubble.jpeg)
+
 <b>I</b> remember the moment when I decided to quit my job (and career) and move with my family to The Netherlands. It was a weekday night, the girls had just gone to sleep, and Stacya (my wife) and I were having what seemed like a casual chat on the couch. I had had another demoralizing day at work. I can't remember what happened, maybe it was nothing at all.
 
 It was not long after I started coaching people, not as a manager, but as an "integral coach". My life finally had a sense of purpose to it! And my day-to-day of building a tech-enabled mortgage product--while constantly feeling like I was being judged as inadequate--felt meaningless by comparison. It was mostly meaningless even without the comparison, but I needed the contrast to notice it and really feel it. I was coming up on my one-year anniversary at the company and the idea of doing it for another year provoked an existential crisis within me. 
 
 So while Stacya and I were relaxing and chatting on the couch, we decided we were going to leave the Silicon Valley life behind. An hour later we had booked one-way tickets to Amsterdam. 
+
+---
 
 ## The Safety Bubble
 
@@ -36,6 +40,7 @@ I regret it.
 
 Jeff, if you're reading this, I'm sorry. I imagine you were in pain and discomfort after that difficult day. No one deserves to be emotionally dumped on like I dumped on you. You were not responsible for my emotional state. You were not responsible for how I felt in reaction to any of the conversations we had in the year that we worked together. My feelings were my own and it was on me to change what I could if I didn't like them. 
 
+---
 
 ## Growth comes at a cost
 

@@ -15,9 +15,49 @@
         </a>
     </div>
 </div>
-<div id="column-body">
-{{.Body}}
-    <hr/>
+<div id="home-content">
+
+    <div class="essays">
+        <div class="lead-essay">
+            <h2><a href="/purposeful-leadership-coaching">Purposeful Leadership Coaching</a></h2>
+            <p><img src="https://s3-us-west-2.amazonaws.com/static.softsideoftech.com/vlad.jpg" alt="Vlad"
+                    title="That's me on the balcony in my home in Utrecht, Netherlands."/></p>
+            <p>I work with leaders who want to cultivate a deeper sense of purpose in their lives. They have
+                proven their competence on many levels over their years and we meet at a point in their journey where
+                their way of being in the world&ndash;that had gotten them this far&ndash;is starting to show
+                its wear. They sense that there might be a different way forward that breaks off from their habbitual strategies. <br/><a href="/purposeful-leadership-coaching">Read On</a></p>
+        </div>
+
+        <div class="secondary-essays">
+            <div class="secondary-essay first-essay">
+                <div class="secondary-essay-heading">
+                    <h3><a href="/motivation-at-clara">How My Hidden Motivations Drove Me To Reevaluate My Life</a></h3>
+                    <em>April 3rd, 2018</em>
+                </div>
+                <p>As I look back at my job at Clara Lending, I remember starting off with a powerful energy. I
+                    was proud of my accomplishments in my first six months and I think others there would agree. But
+                    just a year later I walked away disillusioned and demotivated with mutual frustration between me and
+                    my boss, Jeff&ndash;the CEO.<br/><a href="/motivation-at-clara">Read On</a>
+                </p>
+            </div>
+
+            <div class="secondary-essay">
+                <div class="secondary-essay-heading">
+                    <h3><a href="/the-safety-bubble">I Traded Safety For Meaning Without Realizing How It Would Cost
+                        Me</a>
+                    </h3>
+                    <em>June 4th, 2018</em>
+                </div>
+                <p>I remember the moment when I decided to quit my job (and career) and move with my family to
+                    The Netherlands. It was a weekday night, the girls had just gone to sleep, and Stacya (my wife) and
+                    I were having what seemed like a casual chat on the couch. I had had another demoralizing day at
+                    work. I can&rsquo;t remember what happened, maybe it was nothing at all. <br/><a
+                            href="/the-safety-bubble">Read On</a></p>
+            </div>
+        </div>
+    </div>
+
+
     <div id="home-footer">
         <form id="signup-box" action="/join/" method="post">
             <div class="footer-heading">
@@ -34,46 +74,11 @@
     </div>
     <div id="medium-logo" class="bear-img"></div>
 </div>
-<div id="share-box">
-    <div id="shares-heading">
-        Share the story
-    </div>
-    <a onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&url={{.Url}}', 'newwindow', 'width=640,height=480'); return false;">
-        <div class="share-button lkd">
-            <div class="icon"></div>
-        </div>
-    </a>
-    <a onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{.Url}}', 'newwindow', 'width=640,height=480'); return false;">
-        <div class="share-button fb">
-            <div class="icon"></div>
-        </div>
-    </a>
-    <a onclick="window.open('https://twitter.com/intent/tweet?&text={{.Title}}&tw_p=tweetbutton&url={{.Url}}&via=softsideoftech', 'newwindow', 'width=640,height=480'); return false;">
-        <div class="share-button twtr">
-            <div class="icon"></div>
-        </div>
-    </a>
-    <a target="_blank" href="mailto:?subject=[softsideoftech] {{.Title}}&Body=Vlad's essay on {{.Summary}} resonated with me. I thought you might like it too: {{.Url}}">
-        <div class="share-button email">
-            <div class="icon"></div>
-        </div>
-    </a>
-    <div id="shares-box">
-        <span id="shares-count">0</span>
-    </div>
-</div>
 </body>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111529467-1"></script>
-<script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-        dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
-    gtag('config', 'UA-111529467-1');
-
+<script>    
     {{.JavaScript}}
 </script>
 

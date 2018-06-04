@@ -5,7 +5,7 @@
 
 > > _That's me on my balcony<br/>in Utrecht, Netherlands._
 
-<b>I</b> work with leaders who want to cultivate a deeper sense of purpose in their lives. They have proven their competence on many levels over their years and we meet at a point in their journey where their _way of being_ in the world--that had gotten them this far--is starting to show its wear. They sense that there might be a different way forward where the path isn't as rocky and the hills not as steep.
+<b>I</b> work with leaders who want to cultivate a deeper sense of purpose in their lives. They have proven their competence on many levels over their years and we meet at a point in their journey where their _way of being_ in the world--that had gotten them this far--is starting to show its wear. They sense that there might be a different way forward  that breaks off from their habbitual strategies.
 
 ---
 
