@@ -1,5 +1,5 @@
 # I Traded Safety For Meaning Without Realizing How It Would Cost Me
->> _June 4th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
+>> _June 5th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
 ![](https://d235962hz41e70.cloudfront.net/bubble.jpeg)
 
