@@ -354,6 +354,23 @@ iframe {
 #shares-count {
     display: none;
 }
+
+/* Home Page */
+
+@media screen and (max-width: 640px) {
+    .essay-description {
+        /*display: none;*/
+    }
+    .lead-essay, .secondary-essays {
+        border-right: none;
+        width: 100%;
+    }
+    .lead-essay {
+        border-bottom: solid 1px #dddddd;
+        margin-bottom: 19px;    
+    }
+    
+}
 /* ----- Share Box ----- */
 
 @media screen and (min-width: 1024px) {
