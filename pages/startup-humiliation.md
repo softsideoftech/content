@@ -102,5 +102,5 @@ But it did happen. I made every one of those choices. And I can't get off easy b
 
 Well now I'm looking at it. And the question that I'm wrestling with is why was I so weak at standing up for my needs and desires? I often knew what I wanted. Why did I fold every time Denis wanted something else? 
 
-Over the next week or two, I'm going to explore these questions and share my reflections with you.
+Over the next week or two, I'm going to explore this for myself and share my reflections with you.
 
