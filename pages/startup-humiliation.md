@@ -1,4 +1,4 @@
-# I Dodged a "Menial" Job With By Doing a Startup And Got Myself a Year Of Humiliation 
+# I Dodged a 'Menial' Job By Doing a Startup And Got Myself a Year Of Humiliation 
 >> _July 17th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
 ![](https://d235962hz41e70.cloudfront.net/i-agree.jpeg)
