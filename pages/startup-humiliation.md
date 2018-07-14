@@ -7,8 +7,6 @@
 
 What follows is a pretty one-sided story of my interactions with Denis from when we started talking about doing a company together in 2004 to when we finally gave up on each other in the fall of 2006. This is an account of my experiences, which at the time, I found agonizing and sometimes overwhelming. I'm not making an effort to acknowledge Denis's point of view in this story. I wasn't aware enough back then to notice what he was going through and it's possible he was having just as hard of a time as I was all along.
 
-Denis, if you happen to read this, I want you to know that I let go of my resentments a long time ago. All that's left in me now is gratitude for your support and mentorship during the time we spent together. I know I had a huge ego. Somehow you were patient and present enough to find the moments when you could get through to me and help me learn and grow. I hope this essay finds you well. And please take it for the emotional archeology that it is.
-
 ## Why I did it
 
 <b>I</b>n the summer before my senior year of college I started having intense anxiety. Sometimes it was so hard to bear that it almost incapacitated me. I already had all kinds of issues around self-worth and I think I was starting to have an existential crisis on top of that. A part of me was afraid of what was coming after college was over. I had no idea what to do or what the point of my life would be. 
@@ -104,3 +102,6 @@ Well now I'm looking at it. And the question that I'm wrestling with is why was 
 
 Over the next week or two, I'm going to explore this for myself and share my reflections with you.
 
+--
+
+P.S. Denis, if you happen to read this, I want you to know that I let go of my resentments a long time ago. All that's left in me now is gratitude for your support and mentorship during the time we spent together. I know I had a huge ego. Somehow you were patient and present enough to find the moments when you could get through to me and help me learn and grow. I hope this essay finds you well. And please take it for the emotional archeology that it is.
