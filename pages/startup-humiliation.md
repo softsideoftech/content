@@ -102,6 +102,6 @@ Well, now I'm looking at it. And the question that I'm wrestling with is why was
 
 Over the next week or two, I'm going to explore this for myself and share my reflections with you.
 
---
+---
 
 P.S. Denis, if you happen to read this, I want you to know that I let go of my resentments a long time ago. All that's left in me now is gratitude for your support and mentorship during the time we spent together. I know I had a huge ego. Somehow you were patient and present enough to find the moments when you could get through to me and help me learn and grow. I hope this essay finds you well. And please take it for the emotional archeology that it is.
