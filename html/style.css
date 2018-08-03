@@ -150,6 +150,7 @@ div#column-body p img {
     margin: auto;
     font-style: italic;
     font-size: 24px;
+    text-align: center;
 }
 .essays em {
     color: #777777;
@@ -159,7 +160,6 @@ div#column-body p img {
 }
 
 .first-essay {
-    border-bottom: solid 1px #dddddd;
     margin-bottom: 20px;
 }
 
@@ -172,12 +172,14 @@ div#column-body p img {
     font-size: 20px;
     line-height: 30px;
     margin: auto;
+    text-align: justify;
 }
 
 .essays p {
     font-family: Arial, sans-serif;
     letter-spacing: 0;
     color: #555555;
+    text-align: justify;
 }
 .lead-essay {
     width: 35%;
@@ -364,10 +366,20 @@ iframe {
     .lead-essay, .secondary-essays {
         border-right: none;
         width: 100%;
+        margin-right: 0;
+        padding-right: 0;
     }
-    .lead-essay {
+    .secondary-essay, .lead-essay {
         border-bottom: solid 1px #dddddd;
-        margin-bottom: 19px;    
+        margin-bottom: 20px;
+    }
+    .last-essay {
+        border-bottom: none;
+        margin-bottom: 0;  
+    } 
+    .essays h3, .essays em {
+        text-align: center;
+        display: block;
     }
     
 }
