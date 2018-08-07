@@ -40,4 +40,4 @@ So this is the focus of my inner work these days. I'm trying to notice which of 
 
 <a name="footnote">_1: Footnote On Personality Parts_</a>
 
-I didn't just invent the concept of personality fragments. It's been around for decades and psychologists named the idea [Internal Family Systems](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model). I first learned about it from my coach, Steve March, who also pointed me to a great book on the topic called [Self Therapy](https://www.amazon.com/dp/0984392777).
+I didn't just invent the concept of personality fragments. It's been around for decades and is known as [Internal Family Systems](https://en.wikipedia.org/wiki/Internal_Family_Systems_Model). I first learned about it from my coach, Steve March, who also pointed me to a great book on the topic called [Self Therapy](https://www.amazon.com/dp/0984392777).
