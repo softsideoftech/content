@@ -1,4 +1,7 @@
-## I was ashamed and confused. A personality fragment made me do it.
+# I Was Ashamed And Confused.<br/>A Personality Fragment Made Me Do It.
+>> _August 7th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
+
+![](https://d235962hz41e70.cloudfront.net/model-wooden-puppet.jpg)
 
 <b>A</b> few weeks ago I shared the story of how I made one crappy decision after another while working with my first co-founder right out of college. These decisions earned me a year and a half of misery until I finally I had enough.
 
