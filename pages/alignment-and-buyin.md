@@ -89,7 +89,7 @@ I took on a whole different attidude in my management style. The first initiativ
 
 While I was interviewing there, I noticed a pattern in the frustrations of my interviewers. These were the execs and existing engineering leaders. I suspected that Scrum could be a solution to their problems.
  
-But when I started on the job, I didn't say anything about Scrum. Instead, I took the team through a 3-step _**alignment-to-buy-in**_ process. I've used it many times since and it has worked every time for me:
+But when I started on the job, I didn't say anything about Scrum. Instead, I took the team through a 3-step process that I'm calling _**alignment-oriented management**_. I've used it many times since and it has worked every time for me:
 
 - Align around our needs and desires
 - Explore possible ways forward
@@ -104,7 +104,7 @@ We all saw how time and again we delivered later than we said we would. Our busi
  
 And some developers felt frustrated with the business stakeholders. They often changed what they were asking for. As a result, the devs had to re-do and throw work away more often than they'd have liked.
  
-> The team did most of the speaking. Both feelings and facts were fair game.
+> _The team did most of the speaking. Both feelings and facts were fair game._
  
  What I did was steer these conversations to uncover our unmet needs. 
  
@@ -129,7 +129,7 @@ I treated every objection as valid and full of merit. For hours, we talked throu
  
 It took a while for everyone to feel truly heard. And every second of it was worth it. 
 
-> I could sense my influence with the team growing with every objection that I heard fully and with an open mind.
+> _I could sense my influence with the team growing with every objection that I heard fully and with an open mind._
  
 After all that, even the strongest nay-sayers were willing to give me the space to walk through my ideas. Though I suspect some of them were giving in to the popular will of the team to hear me out. 
  
@@ -139,7 +139,7 @@ I couched everything as theoretical. _It might not actually work for us!_
 
 It would not be a new dogma, it would be an experiment. We would tweak it to suit our needs as we went. And if it wasn't working, we would let it go.
 
-> With the potential for big benefits and what seemed like a low risk, we all decided it was _**safe enough to try**_.
+> _With the potential for big benefits and what seemed like a low risk, we all decided it was **safe enough to try**._
 
 
 ### 3. Taking Action
@@ -153,7 +153,7 @@ For several weeks, I attended all the Scrum meetings. I acted as the coach, offe
 It took a couple of months and everyone got the hang of it. I started attending the meetings less and less. We got to the point where I only joined in to get looped into things, not for training purposes.
 
 ### Speed Bump
-I was surprised how well this _alignment-oriented management_ worked. 
+I was surprised how well this _**alignment-oriented management**_ worked. 
 
 But I left out a detail in my story. The "action" step didn't go quite so smoothly. 
 
@@ -163,7 +163,7 @@ This eng leader felt triggered by Scrum. He felt it was a bunch of overhead with
 
 I thought of him as a thorn in my side and a speed bump to my first "win".
  
- > We never managed to connect. And I regret that I never cared about his needs and desires. 
+ > _We never managed to connect. And I regret that I never cared about his needs and desires._
 
 I willfully got just enough buy-in from the rest of the team to press ahead and hoped he would fall in line over time.
 
@@ -171,9 +171,9 @@ I willfully got just enough buy-in from the rest of the team to press ahead and 
  
 ## Management vs Leadership
 
-<b>I</b> used _alignment-oriented management_ to get what _I desired_. And unlike my attempts at Workday, I got the results that I wanted, for the most part.
+<b>I</b> used _**alignment-oriented management**_ to get what _I desired_. And unlike my attempts at Workday, I got the results that I wanted, for the most part.
 
-> But I'm left with the memory of the pain of that one Clara eng manager. 
+> _But I'm left with the memory of the pain of that one Clara eng manager._ 
 
 Looking back, I can sense that he was hurting all along. The company had grown and his influence got diluted. We had more stakeholders and more interdependencies. These cut into his sense of autonomy.
 
@@ -183,7 +183,7 @@ I realize now that there might have been another way. A way that I could have re
 
 In my experience, the point of a _**manager**_ has been to get groups of people to fulfill the desires of a select few. 
 
-_But what makes those few desires more important than the needs of everyone else?_ 
+> _But what makes those few desires more important than the needs of everyone else?_ 
 
 That's where I think leadership is different. A _**leader**_ supports the group in fulfilling the needs and desires of all it members.
 
