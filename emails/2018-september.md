@@ -1,6 +1,8 @@
 Hi {{.FirstName}},
 
-Thank you for your support, even just the virtual variety. I've been living in The Netherlands for a year now. My two girls are now fluent in Dutch and just started going to a local Montessori elementary school.
+I appreciate your support. Even just the virtual variety. 
+
+I've been living in The Netherlands for a year now. My two girls are now fluent in Dutch and just started going to a local Montessori elementary school.
 
 The year has been hard for me at times, but fulfilling. 
 
