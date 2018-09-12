@@ -177,7 +177,7 @@ Looking back, I can sense that he was hurting all along. The company had grown a
 
 His resistance to my initiative had was mostly from the pain of feeling diminished. His issues with Scrum were only reminders of that pain.
 
-I sense now that there was another way. I way I could have respected everyone and not leave anyone behind.
+I sense now that there was another way. A way I could have respected everyone and not leave anyone behind.
 
 It feels like my ideals of management are breaking down for me. In my experience, the point of a _**manager**_ has been to get groups of people to fulfill the desires of a select few. 
 
