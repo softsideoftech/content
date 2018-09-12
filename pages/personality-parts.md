@@ -1,4 +1,4 @@
-# I Was Ashamed And Confused.<br/>A Personality Fragment Made Me Do It.
+# I Was Ashamed And Confused.
 >> _August 7th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
 ![](https://d235962hz41e70.cloudfront.net/model-wooden-puppet.jpg)
@@ -29,6 +29,8 @@ The danger the Paramedic perceives isn't real. It's actually a memory of a traum
 ### The Abandoned Boy
 
 This boy had once, in a fit of rage, hurt a kind little girl. His classmates were disgusted by his senseless violence toward someone so innocent. The word quickly spread and they collectively and viciously ostracized him, even those who once considered him their friend. He was a pariah. For years, the other kids either openly bullied him or kept their distance. He was always alone. He felt sorry for himself and didn't know what to do. He cried himself to sleep on many nights. The Abandoned Boy's pain and isolation lasted for years, until little by little, he was hidden away so deeply in my subconscious that his dark sadness never made it to the surface of my awareness anymore. And he had strong protectors like the Paramedic and the Achiever who worked hard to keep him safe, so I would never have to re-live that pain.
+
+---
 
 ## Healing
 

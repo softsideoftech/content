@@ -7,6 +7,8 @@
 
 What follows is a pretty one-sided story of my interactions with Denis from when we started talking about doing a company together in 2004 to when we finally gave up on each other in the fall of 2006. This is an account of my experiences, which at the time, I found agonizing and sometimes overwhelming. I'm not making an effort to acknowledge Denis's point of view in this story. I wasn't aware enough back then to notice what he was going through and it's possible he was having just as hard of a time as I was all along.
 
+---
+
 ## Why I did it
 
 <b>I</b>n the summer before my senior year of college I started having intense anxiety. Sometimes it was so hard to bear that it almost incapacitated me. I already had all kinds of issues around self-worth and I think I was starting to have an existential crisis on top of that. A part of me was afraid of what was coming after college was over. I had no idea what to do or what the point of my life would be. 
@@ -18,6 +20,8 @@ My real problem was that I couldn't stand the idea of getting an "entry-level" s
 So I decided I'd start my own company. I wouldn't need anyone's blessing to work on the "hard problems", which meant I didn't have to tarnish my self-image as a "brilliant computer scientist." Besides, I was planning to become a "dot-com millionaire" by age 30 and I was already 22. I didn't have the time to work my way up the ranks of a big company. And joining another startup never even occurred to me. I must have implicitly thought "why would a startup ever hire a fresh college grad?" They need experienced people so they could move fast. 
 
 These grandiose ideas about myself were a naive coverup for my basic lack of self-worth. That's how it works for fundamental deficiencies. If you don't have it, you find a way to fake it. The alternative of actually feeling worthless is unthinkable.
+
+---
 
 ## The Faulty Decisions
 
@@ -76,6 +80,7 @@ So as unbelievable as it was, I went along with Denis's demands. We didn't speak
 
 I was seething. I have no idea how Denis felt because I was too caught up in hatefulness to notice him as a human being. I started coming into the office to "check in" and then would leave for an hour or two to go to the gym. My pride demanded that I "win" somehow. Denis had started working even later than before and I figured there was little risk of him catching my deception. 
 
+---
 
 ## The Crash
 
@@ -91,6 +96,7 @@ As I had expected, he didn't want to give up the money as he felt the company wa
 
 Denis and I never spoke again. One time years later I saw him in San Francisco walking in my direction. I think he actually crossed the street and walked the other way when he noticed me. And I can understand why. I had reserved a special place in hell for him. I had even fantasized about how much easier my life would be if he were to suddenly "disappear". I imagine some part of him could sense my loathing and wanted to quickly get to safety.
 
+---
 
 ## It Wasn't Me
 

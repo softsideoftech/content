@@ -64,7 +64,7 @@ div#column-body p img {
     margin-left: -3%;
 }
 
-#column-body {
+#column-body, #offering {
     max-width: 640px;
     margin: 0 auto;
     background-color: #FFFFFF;
@@ -73,6 +73,9 @@ div#column-body p img {
     z-index: 1;
 }
 
+#offering {
+    padding-top: 0;
+}
 
 
 /* ----- Home Page ----- */
@@ -135,15 +138,19 @@ div#column-body p img {
 }
 
 .essays {
-    max-width: 800px;
+    max-width: 500px;
     margin: 100px auto 50px auto;
     display: flex;
     flex-wrap: wrap;
     flex-direction: row;
     padding: 0 20px;
     font-size: 17px;
-    border-bottom: solid 1px #dddddd;
-    padding-bottom: 20px;
+}
+
+.essays img {
+    max-width: 500px;
+    margin-left: -6%;
+
 }
 
 .essays h2 {
@@ -157,6 +164,9 @@ div#column-body p img {
     font-family: arial, sans-serif;
     font-size: 15px;
     font-style: italic;
+    display: block;
+    width: 100%;
+    text-align: center;
 }
 
 .first-essay {
@@ -172,14 +182,16 @@ div#column-body p img {
     font-size: 20px;
     line-height: 30px;
     margin: auto;
-    text-align: justify;
+    text-align: center;
+    width: 100%
 }
 
 .essays p {
-    font-family: Arial, sans-serif;
-    letter-spacing: 0;
+    /*font-family: Arial, sans-serif;*/
+    /*letter-spacing: 0;*/
     color: #555555;
-    text-align: justify;
+    text-align: center  ;
+    font-size: 19px;
 }
 .lead-essay {
     width: 35%;
@@ -194,7 +206,6 @@ div#column-body p img {
 }
 
 .secondary-essays {
-    width: 55%;
 }
 
 .secondary-essay img {
@@ -212,6 +223,7 @@ h1, h2, h3, h4, h4 {
     line-height: 40px;
     font-weight: 600;
     color: rgba(0, 0, 0, 0.85);
+    text-align: center;
 }
 
 a {
@@ -227,7 +239,6 @@ a:hover {
 h1 {
     font-size: 34px;
     margin: 0 0 35px 0;
-    text-align: center;
 }
 
 h2 {
@@ -323,7 +334,7 @@ button {
     border: none;
     color: #FFFFFF;
     padding: 10px;
-    width: 200px;
+    width: 250px;
     border-radius: 50px;
     font-weight: 500;
 }

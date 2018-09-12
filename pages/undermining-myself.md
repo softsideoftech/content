@@ -1,4 +1,4 @@
-# I failed to reach alignment with my team and it cost me
+# I forced an idea on my team and undermined myself
 
 ![](https://d235962hz41e70.cloudfront.net/hurt-bear.jpeg)
 
@@ -24,23 +24,25 @@ I had conviction in my vision, so I asked them to give it a shot for a month or 
 
 But in my mind, I could only see the best case. This product would give our people transparency into how their peers perceived them.  They would get this info in a safe and tactful way. It could even surface issues at the root of their personal development struggles. Which, of course, would be great openings for deeper conversations with their managers.
 
-So we went ahead with it. Or rather, I did. 
+> _So we went ahead with it. Or rather, I did._ 
 
 The next week, I invited the founder of the feedback product to the SYMAN all-hands meeting. He showed us a nice demo and did his best to sell everyone on it. 
 
 The response from the team felt lukewarm. But no one particularly objected so I took that as a good sign. I figured that people would get excited once they used the product for a while and started to see the benefits.
 
-Fast forward a couple of months, most people on the team had used the quick feedback a few times. A handful were using it on an ongoing basis. 
+Fast forward a couple of months, most people on the team had used the quick feedback a few times. A handful were using it on an ongoing basis. But...
 
-But no one was talking about it. 
+> _No one was talking about it._ 
 
 I didn’t see any signs that anyone had any useful insights. No one had conversations with their manager because of it. And the SYMAN leadership sounded “meh” about it whenever I asked them. Usage trailed off over the next several months until we finally put it out of its misery and shut it down.
+
+---
 
 ## Undermining Myself
 
 <b>S</b>o what happened? 
 
-Was my vision that out of touch with reality? Maybe it was. I don’t know for sure. But as an experiment, I doomed it from the start. 
+Was my vision that out of touch with reality? Maybe it was. I won’t know for sure. But as an experiment, I doomed it from the start. 
 
 I undermined my power and authority with the team by trying to push something through and failing at it. Though it sounds minor on the surface, I was surprised at how painful the experience felt for me. 
 
