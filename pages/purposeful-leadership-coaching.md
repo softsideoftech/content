@@ -67,4 +67,3 @@ I coach individuals and teams on a weekly or bi-weekly basis. My rates are as fo
 
 >> **Personal Coaching**  
 >> $200 per session for weekly or bi-weekly sessions  
->> _Minimum commitment of 16 sessions_
