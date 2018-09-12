@@ -19,6 +19,6 @@ This is the story of how [I forced an idea on my team and undermined myself](htt
 With love,  
 Vlad
 
-P.S. I'd love you hear your stories about your leadership mistakes. You can reply to this email with whatever episode comes to mind for you. 
+P.S. I'd love to hear your own stories about leadership mistakes. You can reply to this email with whatever episode comes to mind for you. 
 
 I promise no judgement and an open heart.  

@@ -4,25 +4,27 @@
 
 <b>A</b> few years ago I was leading the data products team at Workday known as the SYMAN team. In one of my last acts as the leader, I made a mistake that shaped my management style ever since. 
 
-I forced one of my ideas on the team. An idea they weren't interested in. And I swore to myself that I would never do it again.
+I forced one of my ideas on the team. An idea they weren't interested in. 
 
-I had come across a startup that was offering a continuous feedback product that I got excited about. It let people do quick and easy peer-to-peer feedback on top of the manager feedback we were already doing. It would be anonymous so that everyone would be comfortable sharing all the time. 
+I had come across a startup that was offering a continuous feedback product that I got excited about. It allowed people do quick and easy peer-to-peer feedback. It was anonymous so that everyone would be comfortable sharing all the time. 
 
-In less than a year, we had grown from a 20 person team to a more than 50 person “org”. I was hearing more and more about frictions between different teams within the SYMAN team. I hoped that this feedback product would shed light on what these frictions were. The people causing them needed to know. And so did the managers who actually ran the teams on a day to day basis.
+In less than a year, we had grown from a 20 person team to a more than 50 person “org”. I was hearing more and more about frictions among different teams within our org. 
 
-I talked to the startup founder about letting us trial the product with the whole team. 
+This feedback product could shed light on what these frictions were. 
 
-As soon as we struck the deal, I went to my leadership team, the top four SYMAN managers. I let them know how great this product was and how it was going to give us more insight into our people. We would use it as a tool to help us relieve the tensions that had been building up across their teams. 
+Got in touch with the founder of this product and arranged for us to trial it with the whole team. 
+
+As soon as I struck the deal, I went to my leadership team, the top four SYMAN managers. I let them know how great this product was and how it was going to give us more insight into our people. We would use it as a tool to help us relieve the tensions that had been building up across their teams. 
 
 The room got quiet.
 
-I didn’t get the questions or excitement that I was expecting. I only saw what looked like nervous faces eyeing each other. 
+I didn’t get the questions or excitement that I was expecting. I only noticed what looked like nervous faces eyeing each other. 
 
 We had some strained conversation about it and no one outright objected. I could tell the managers weren’t bought in.
 
-I had conviction in my vision, so I asked them to give it a shot for a month or two to see how it goes. Worst case, it’s an experiment that doesn’t work out. 
+I had conviction in my vision, so I asked them to give it a shot for a month or two and see how it goes. Worst case, it’s an experiment that doesn’t work out. 
 
-But in my mind, I could only see the best case. This product would give our people transparency into how their peers perceived them.  They would get this info in a safe and tactful way. It could even surface issues at the root of their personal development struggles. Which, of course, would be great openings for deeper conversations with their managers.
+But in my mind, I could only see the best case. This product would give our engineers transparency into how their peers perceived them. They would get this info in a safe and tactful way. It could even surface issues at the root of their personal development struggles. Which, of course, would be great openings for deeper conversations with their managers.
 
 > _So we went ahead with it. Or rather, I did._ 
 
