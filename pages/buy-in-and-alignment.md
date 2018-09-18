@@ -1,4 +1,4 @@
-# How I Managed With Alignment Instead Of Authority
+# How I Managed With Buy-in Instead Of Authority
 
 >> _September 18th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
