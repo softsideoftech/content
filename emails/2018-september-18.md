@@ -20,8 +20,8 @@ So at my next job, at Clara Lending, I tried hard to actually _be better_.
 
 With love,  
 Vlad
-  
-  
+<br/>  
+<br/>  
 P.S. Since my girls started back at school, I've been working on a course for cultivating your leadership potential from within. 
 
 It's a serious _inner work_ course for people in tech. 
