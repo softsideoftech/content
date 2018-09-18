@@ -1,4 +1,4 @@
-I had insisted doing things my way with my team and my idea didn't work out. For months, I watched my people halfheartedly use a feedback product they didn't want. I'd feel a tinge of embarrassment every time I saw it up on someone's screen. It was a low-value distraction for 50+ people and I felt like they all knew it. A part of me thought it "knew better" all along and was beating me up over it.
+I had insisted on doing things my way with my team and my idea didn't work out. For months, I watched my people halfheartedly use a feedback product they didn't want. I'd feel a tinge of embarrassment every time I saw it up on someone's screen. It was a low-value distraction for 50+ people and I felt like they all knew it. A part of me thought it "knew better" all along and was beating me up over it.
 
 I resolved to do better next time. Over the next several months, in between beating myself up, I reflected on where I went wrong. The following are the fruits of those reflections.
 
@@ -42,7 +42,7 @@ In my rush and excitement to help them, I dispensed with the whole idea of buy-i
  
 My team at Clara would not have recognized the Vlad that would force his ideas on them without their buy-in. 
  
-I took on a whole different attidude in my management style. The first initiative I introduced at Clara was adopting Scrum. 
+I took on a whole different attitude in my management style. The first initiative I introduced at Clara was adopting Scrum. 
 
 
 While I was interviewing there, I noticed a pattern in the frustrations of my interviewers. These were the execs and existing engineering leaders. I suspected that Scrum could be a solution to their problems.
@@ -71,7 +71,7 @@ And some developers felt frustrated with the business stakeholders. They often c
  
 There was an offsite scheduled for two weeks after I joined. I decided this would be my chance to make a grand proposal to solve all the pains we had been talking about: _Scrum!_
 
-An arrogance had crept into my attidude. I was feeling like a _savior_ with the magic powers to solve everyone's problems. 
+An arrogance had crept into my attitude. I was feeling like a _savior_ with the magic powers to solve everyone's problems. 
  
 This was my first misstep. 
 
@@ -79,7 +79,7 @@ As soon as I brought up my solution, several people objected, some strongly. In 
 
 The "right" way would have been to explore a number of possible solutions with the team. And slowly settle on one approach. But I was impatient and too attached to my own "expertise".
  
-So what could I do now? How could I help the team without insisting on my way and face likely failure, like I did with the SYMAN team at Workday? 
+So what could I do now? How could I help the team without insisting on my way and face likely failure, as I did with the SYMAN team at Workday? 
  
 Well, I heard them out. 
  
@@ -143,7 +143,6 @@ In my experience, the point of a _**manager**_ has been to get groups of people 
 
 > _But what makes those few desires more important than the needs of everyone else?_ 
 
-That's where I think leadership is different. A _**leader**_ supports the group in fulfilling the needs and desires of all it members.
+That's where leadership is different. A _**leader**_ supports the group in fulfilling the needs and desires of all its members.
 
 So for my next few posts, I'm going to explore leadership. What is it, really? And how can one develop leadership within themselves?
-
