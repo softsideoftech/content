@@ -1,16 +1,16 @@
+I had insisted doing things my way with my team and my idea didn't work out. For months, I watched my people halfheartedly use a feedback product they didn't want. I'd feel a tinge of embarrassment every time I saw it up on someone's screen. It was a low-value distraction for 50+ people and I felt like they all knew it. A part of me thought it "knew better" all along and was beating me up over it.
 
+I resolved to do better next time. Over the next several months, in between beating myself up, I reflected on where I went wrong. The following are the fruits of those reflections.
 
 ---
 
 ## Alignment & Buy-in
 
-<b>I</b> realized that I failed because we never got aligned about what problem we were trying to solve. And my leadership team was not bought into the solution that I imposed. 
+<b>I</b> realized that I failed because we never got _aligned_ about what problem we were trying to solve. And my leadership team was not _bought into_ the solution that I imposed. 
 
-But what exactly are alignment and buy-in? 
+I used to throw these buzz words around so I could feel like I was part of the "in-crowd" of senior leaders at Workday. But I didn't understand them at the time.
 
-I used to throw these buzz words around so I could feel like I was part of the "in-crowd" of senior leaders at Workday.
-  
-I didn't understand those words at the time. Alignment and buy-in are related--but different--concepts. I had conflated them for the longest time. 
+Alignment and buy-in are related--but different--concepts. And I had conflated them for the longest time. 
 
 Here's what they mean literally:
 
@@ -49,9 +49,9 @@ While I was interviewing there, I noticed a pattern in the frustrations of my in
  
 But when I started on the job, I didn't say anything about Scrum. Instead, I took the team through a 3-step process that I'm calling _**alignment-oriented management**_. I've used it many times since and it has worked every time for me:
 
-- Align around our needs and desires
-- Explore possible ways forward
-- Plan and take action
+- Align around our _needs and desires_
+- Explore _possible_ ways forward
+- Plan and take _action_
 
 
 ### 1. Aligning On Our Needs
