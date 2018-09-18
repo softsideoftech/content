@@ -10,7 +10,7 @@ I had insisted for my team to use a feedback tool that they weren't bought into.
 
 I spent a long time beating myself up over it because I should have known better. I resolved to do better next time. 
 
-In between my mental beatings, I reflected on where I went wrong. The following are the fruits of those reflections.
+In between my mental beatings, I reflected on where I went wrong. What follows is the fruit of those reflections.
 
 ---
 
