@@ -1,4 +1,6 @@
-# I forced an idea on my team and undermined myself
+# I forced an idea on my team and undermined my authority
+
+>> _September 13th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
 ![](https://d235962hz41e70.cloudfront.net/hurt-bear.jpeg)
 
