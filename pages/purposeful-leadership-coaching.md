@@ -24,7 +24,7 @@ These have been hiding within you all these long years.
 
 ---
 
-## Purposeful Leadership Coaching
+## Developing Your Inner Leadership
 
 <b>I</b> work with leaders who want to cultivate a deeper sense of purpose in their lives. 
 
