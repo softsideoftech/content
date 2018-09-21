@@ -16,11 +16,16 @@ Some of us never make it to our islands at all, many of us do.
 
 We might get to the island and we'll look around. We notice how we feel and sense _this isn't quite right..._
 
-> _This it isn't the feeling I was expecting. This must not be the right island. It's actually that one right over there. I'm going back into my rowboat, and I'm going start rowing again. This time I'm sure it's the right island._ 
+> _This it isn't the feeling I was expecting. This must not be the right island. It's actually that one right over there. I'm going back into my rowboat, and I'm going start rowing again. This time I'm sure it's the right island._
+ 
 > _And maybe I get to my next Island.  I get there I get out my boat, again. I look around and say **wait a minute...**_
+
 > _It still doesn't feel right._
+
 > _I don't know why that is. Must be the wrong Island._
+
 > _Okay, well, there's another one over there. I know some friends who got there and they look really happy. That _**must**_ be the island for me too. I'll go there._
+
 > _I'm sure this is the right one this time._
 
 And that's how we're living our lives.
