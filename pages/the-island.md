@@ -1,6 +1,6 @@
 # The Island
 
-Hi there. Glad you're here.
+Hi there. I'm glad you're here.
 
 So right now, I'm going to tell you a story about the island where "it all turns out." And just follow along and see if you can figure out what the story is about.
 
