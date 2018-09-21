@@ -17,7 +17,7 @@ This is the kind of "soft" power that Gandhi and Martin Luther King Jr had when 
 
 A lot of power in the world is of the soft variety. People _HATE_ being forced to do anything. Even if it's something they'd choose do anyway, the moment they _have to_ it becomes a chore.
 
-That's because hard power is inherently fragile. The moment a leader uses force to accomplish anything, he takes away his people's ability to _choose to follow him_.
+That's because hard power is fragile. The moment a leader uses force to accomplish anything, he takes away his people's ability to _choose to follow him_.
 
 As President Trump has experienced, even with the most powerful office in the world, it's hard to get anything done if people whose actions you depend on don't want to follow you.
 
@@ -101,16 +101,3 @@ This is why trust is invaluable. As a leader, if your followers have trust in yo
 
 he looses some portion of his soft power over those same people. 
 
-I think this is why  
-
-
-
-If I could do it all over again, here's what I wish I would have done:
-
-I would gather the SYMAN leaders and start a conversation about my observations:
-
-- I heard complaints from one leader or another about how other teams aren't delivering in the way they expected them to.
-- I sensed that some of the teams were in a state of confusion more often than felt reasonable to me.   
-- I heard about a few different instances (second hand) that one developer was frustrated at another developer.
-
-That's it. Sounds pretty circumstantial as I call out the specifics. These might have been part of a larger pattern that would call for a single, unified response. Or not.
