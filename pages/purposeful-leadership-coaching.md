@@ -1,4 +1,4 @@
-![Vlad](https://s3-us-west-2.amazonaws.com/static.softsideoftech.com/vlad.jpg "That's me on the balcony in my home in Utrecht, Netherlands.")
+![Vlad](https://d235962hz41e70.cloudfront.net/vlad.jpg "That's me on the balcony in my home in Utrecht, Netherlands.")
 
 > > _That's me on my balcony<br/>in Utrecht, Netherlands._
 

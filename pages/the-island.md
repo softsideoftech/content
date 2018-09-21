@@ -1,4 +1,5 @@
 # The Island
+![](https://d235962hz41e70.cloudfront.net/the-island.jpg)
 
 Hi there. I'm glad you're here.
 
