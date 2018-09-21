@@ -4,7 +4,7 @@ Hi there. I'm glad you're here.
 
 So right now, I'm going to tell you a story about the island where "it all turns out." And just follow along and see if you can figure out what the story is about.
 
-All of us, all our friends, our family, basically, the culture that we're in our rowing our own little rowboats. We're rowing furiously and we're trying to get to this one particular island, where it's all going to turn out for us. Each one of us has our own island.
+All of us, all our friends, our family--basically, the culture that we're in--we're rowing our own little rowboats. We're rowing furiously and we're trying to get to this one particular island, where it's all going to turn out for us. Each one of us has our own island.
 
 For some people, it's the stereotypical house, two cars, and 2.5 kids. For others, it might be a certain amount of dollars in the bank account.
 
@@ -24,15 +24,15 @@ We might get to the island and we'll look around. We notice how we feel and sens
 
 > _I don't know why that is. Must be the wrong Island._
 
-> _Okay, well, there's another one over there. I know some friends who got there and they look really happy. That _**must**_ be the island for me too. I'll go there._
+> _Okay, well, there's another one over there. I know some friends who got there and they look really happy. That must be the island for me too. I'll go there._
 
-> _I'm sure this is the right one this time._
+> _I'm sure I've got the right one this time._
 
 And that's how we're living our lives.
 
-I actually got to one of my islands. A few years ago, I was CTO of a company called identified. It was a start-up and we got acquired by a much larger company called Workday.
+I actually got to one of my islands. A few years ago, I was CTO of a company called Identified. It was a start-up and we got acquired by a much larger company called Workday.
 
-I wasn't particularly thrilled with the company that acquired us. But my island was financial independence and, if I had stayed at Workday, I could have retired comfortably before the age of forty!
+I wasn't particularly thrilled with the company that acquired us. But my island was financial independence. And if I had stayed at Workday, I could have retired comfortably before the age of forty.
 
 I ended up sticking around for only two years.
 
@@ -40,23 +40,23 @@ It was almost right away that something didn't feel right for me.
 
 I think I sensed that I was about to get what I wanted, and it didn't seem to matter anymore.
 
-I'm not saying the money wouldn't have been great. It would have been wonderful! Now I still have to stress about earning and taking care of my family and feeling safe from the world. 
+I'm not saying the money wouldn't have been great. It would have been wonderful. Now I still have to stress about earning and taking care of my family and feeling safe in the world. 
 
 And money could have helped a lot with those things, but it wasn't quite what I thought it would be. 
 
-So what do we do? Are we condemned to travel from one island to the next to the next our whole lives?
+So what do we do? Are we condemned to travel from one island to the next our whole lives?
 
-I think a lot of people live their lives that way. But that's not why we're here together today. We're here because we're looking for another way. 
+I think a lot of people live their lives that way. But that's not why we're here today. We're here because we're looking for another way. 
 
 And I'm not saying that this other way doesn't include getting nice things in the world. You still have your preferences. By all means, you could still have those things. It just means that we are not going to depend on feeling _Okay_ based on something external, simply satisfying external desires.
 
-When we go from one island to another, we call that _**horizontal development**_. And there's not a wrong with horizontal development. 
+When we go from one island to another, we call that _**horizontal development**_. And there's nothing wrong with horizontal developmen. 
 
-Horizontal development can be developing a skill. It could be acquiring a certain position of authority.  All of those could be amazing means to an end. But if the end is just another island, it's probably not going to give us that sense of inner peace and satisfaction that we're craving. 
+Horizontal development can be something like developing a skill. It could be acquiring a certain position of authority.  All of those could be amazing means to an end. But if the end is just another island, it's probably not going to give us that sense of inner peace and satisfaction that we're craving. 
 
 So we turn inward. We do _**vertical development**_.
 
-And what does that look like? how do we do it?
+And what does that look like? How do we do it?
 
 That's going to be what we'll be talking about for the next few months. 
 
