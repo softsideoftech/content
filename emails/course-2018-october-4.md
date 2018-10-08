@@ -14,7 +14,7 @@ I call this _Inner Work_. And I begin to explain this in the first video of the 
 
 <br/>
   
-[THE ISLAND -- HORIZONTAL VS VERTICAL DEVELOPMENT](https://youtu.be/YNfpzD_M4Xw)
+[THE ISLAND -- HORIZONTAL VS VERTICAL DEVELOPMENT](https://www.youtube.com/embed/YNfpzD_M4Xw?rel=0)
 
 <br/>
 
