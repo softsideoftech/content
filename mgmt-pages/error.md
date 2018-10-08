@@ -1,8 +1,8 @@
-Hey,
+Hey there,
 
-Looks like something went wrong just now. I logged your request and will take a look at it the next time I'm working on the site, which might not be for a while.
+Looks like something went wrong. I logged your request and will take a look at it the next time I'm working on the website.
 
-Please email me if it's something pretty urgent:
-vlad@softsideoftech.com
+I might not get to it for a while, so please email me if it's something urgent:
+{{.OwnerEmail}}
 
 -{{.OwnerName}}

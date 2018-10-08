@@ -1,0 +1,30 @@
+<html>
+<head>
+    <title>{{.Title}}</title>
+    <meta charset='UTF-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link href="https://vjs.zencdn.net/7.1.0/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+
+    <style>{{.Css}}</style>
+</head>
+<body>
+    <div id="page-header-wrapper">
+        <div id="header">
+            <a id="logo" href="/">
+                <div id="bear-img" class="bear-img"></div>
+                <div class="logo-styled-text">Soft Side of Tech</div>
+            </a>
+        </div>
+    </div>
+    <div id="column-body">
+        {{.Body}}
+    </div>
+    <script src="https://vjs.zencdn.net/7.1.0/video.js"></script>
+</body>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111529467-1"></script>
+<script>
+    {{.JavaScript}}
+</script>
+</html>
