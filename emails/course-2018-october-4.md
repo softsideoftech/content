@@ -26,7 +26,7 @@ Please take 5 minutes to watch the video before you read the rest of the email.
   
 <br/>
   
-If you're now more excited, rather than less, then take a look at the Course Logistics below:
+If you're now more excited, rather than less, then take a look at the Course Logistics below.
   
   
 **Core Material**  
