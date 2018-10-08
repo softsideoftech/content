@@ -1,6 +1,6 @@
 {{.FirstName}},
 
-Here's the info I promised you on the leadership development course. 
+Here's the info I promised you on the inner leadership development course. 
 
 _**If you still want to be in the course, please read through to the end of this email.**_
 
