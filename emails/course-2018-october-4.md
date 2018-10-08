@@ -10,8 +10,10 @@ This course is _**not**_ about developing new management skills.
  
 Instead, you'll be getting in touch with the natural leadership capacities you already have. You will learn to listen to yourself more deeply and act from a place of greater authenticity. From that place, you'll more often be able to do what's best for you and everyone around you.
 
-I call this _Inner Work_. And I being to explain this in the first video of the course: 
+I call this _Inner Work_. And I begin to explain this in the first video of the course: 
 
+<br/>
+  
 [THE ISLAND -- HORIZONTAL VS VERTICAL DEVELOPMENT](https://youtu.be/YNfpzD_M4Xw)
 
 <br/>
@@ -40,7 +42,7 @@ _Your experience will be challenging and uncomfortable at times. You'll likely n
  • _Buddy_: You'll be paired with one other classmate for one-on-one support.  
  • _Pod_: You will also be in groups of 3-4 people as your private support community.  
 
-I'll try to match you with people that live in your area so you could meet in person if you like. Though I some of you may want/need to connect over phone/video calls.
+I'll try to match you with people that live in your area so you could meet in person if you like. Though some of you may want/need to connect over phone/video calls.
 
 You're free to meet as often or as little as you like. I would encourage you to connect at least once every two weeks. 
 
