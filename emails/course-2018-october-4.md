@@ -54,9 +54,9 @@ You'll be a pillar of support for 3-4 of your classmates. Please think about if 
  • When I open up the course for others next year, it will likely be *$1,000*.   
  • Please treat the experience as if that is what you paid to participate.   
 
-IF YOU STILL WANT TO PARTICIPATE, PLEASE RESPOND TO THIS EMAIL AND LET ME KNOW.
+IF YOU STILL WANT TO PARTICIPATE, PLEASE RESPOND TO THIS EMAIL AND LET ME KNOW BY _**THIS FRIDAY, OCTOBER 12TH**_.
 
-Hope to see there.
+Hope to see you there.
 
 With love,  
 Vlad
