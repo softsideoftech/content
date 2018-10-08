@@ -12,15 +12,17 @@ Instead, you'll be getting in touch with the natural leadership capacities you a
 
 I call this _Inner Work_. And I being to explain this in the first video of the course: 
 
+[THE ISLAND -- HORIZONTAL VS VERTICAL DEVELOPMENT](https://youtu.be/YNfpzD_M4Xw)
 
-[The Island -- Horizontal vs Vertical Development](https://youtu.be/YNfpzD_M4Xw)
-
+<br/>
 
 Please take 5 minutes to watch the video before you read the rest of the email.
   
+<br/>
   
 ---
   
+<br/>
   
 If you're now more excited, rather than less, then take a look at the Course Logistics below:
   
@@ -56,9 +58,11 @@ You'll be a pillar of support for 3-4 of your classmates. Please think about if 
  • When I open up the course for others next year, it will likely be *$1,000*.   
  • Please treat the experience as if that is what you paid to participate.   
   
+<br/>
   
 IF YOU STILL WANT TO PARTICIPATE, PLEASE RESPOND TO THIS EMAIL AND LET ME KNOW BY _**THIS FRIDAY, OCTOBER 12TH**_.
   
+<br/>
   
 Hope to see you there.
 
