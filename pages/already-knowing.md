@@ -1,4 +1,4 @@
-# Damaging Relationships By "Already Knowing"
+# Damaging Relationships By 'Already Knowing'
 
 >> _September 26th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
