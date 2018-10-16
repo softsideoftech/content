@@ -5,9 +5,9 @@
 ![](https://d235962hz41e70.cloudfront.net/hurt-bear.jpeg)
 
 
-During my first week as CTO at Clara Lending, I overheard from one of the execs that they were planning to add a $3,000 referral bonus to help with recruiting. I just _knew_ this was a mistake. I decided I was going to "help" the company by trying to stop this from happening.
+In my first week as CTO at Clara Lending, I overheard one of the execs talking about recruiting. He was going to add a $3,000 referral bonus to help juice hiring. I _just knew_ this was a mistake. I decided I was going to "help" the company by trying to stop this from happening.
 
-Because I "knew better", I got myself into a fight with our head of recruiting, Bryce. I had almost permanantly ruined a relationship that I depended on to succeed at my job.
+Because I "knew better", I got myself into a fight with our head of recruiting, Bryce. I had almost ruined a relationship that I depended on to succeed at my job.
 
 The fight turned out to be a gift. It forced me to let go of some of my beliefs to focus on saving my relationship with Bryce. We ended up becoming friends. Together, Bryce and I found a way for both of us to contribute our unique perspectives. We ended up being more successful than we could have been on our own.
 
@@ -19,17 +19,17 @@ I had joined Clara with an idealistic vision of what it could be. I fantasized a
 
 > _Why would employees need an incentive to refer people in such a wonderful place? They would be helping both their friends and the company at the same time! Adding money to the mix would dirty our pristine waters._
 
-I had read all these articles and books that touched on _intrinsic motivation_ over the last few years. I was convinced that a referral bonus would detract from peoples's natural drive to invite their friends to join them at the company. 
+I had read all these articles and books that touched on _intrinsic motivation_. The motivation gurus were all quite negative on bonuses. So I believed a referral bonus would kill peoples' natural drive to invite their friends to the company. 
 
 My fantasy was threatened, so decided I would make a stand. 
 
-Shortly after I heard the exec make the "referral bonus" comment, I pulled him aside and asked if we could hold off implementing his idea by a week. I wanted to have a wider conversation about it first.
+Soon after the exec made the "referral bonus" comment, I pulled him aside. I asked him if we could hold off implementing his idea by a week. I wanted to have a wider conversation about it first. I intended to talk about motivation.
 
 _This was maybe my fifth day at the company._ 
 
 As a gesture of goodwill, he agreed. He directed me to Bryce, who had also just joined the company. She was going to run recruiting and setting up the referral bonus was her first project.
 
-With some nerves and excitement, I went over to Bryce and asked to schedule a meeting with her to talk about the referral bonus. I was sure that if I could only explain to her how intrinsic motivation works, she would come around. She didn't even need to fully buy-in. She just needed to hold off long enough to see for herself.
+With nerves and excitement, I went over to Bryce to schedule a meeting with her about the referral bonus. I was sure that if I could only explain to her how intrinsic motivation works, she would come around. She didn't even need to fully buy-in. She only needed to hold off long enough to see for herself.
 
 > _It's hard for me to believe that I could have been that naive._ 
 
@@ -43,9 +43,9 @@ I'm pretty sure Bryce felt ambushed by my agenda. She was surprised that I wante
 
  We ended up talking for what felt like an hour. I had gotten more and more frustrated as the conversation went on. I really needed her to hear me. Why didn't she "get it"? 
  
- _She was too closed off_, I had implictly decided. I became increasingly forceful, as if I could somehow crack her defenses open and she would finally "see the light". 
+ _She was too closed off_, I had implicitly decided. I became increasingly forceful as if I could somehow crack her defenses open and she would finally "see the light". 
  
- In a fit, I called her out for being closed off and "erecting a bubble" around herself.
+In a fit, I called her out for being closed off and "erecting a bubble" around herself.
  
  > _I had just made it personal. Bryce was hurt._ 
  
@@ -57,7 +57,7 @@ I'm pretty sure Bryce felt ambushed by my agenda. She was surprised that I wante
  
  I relented. I told Bryce that I wouldn't get in her way of the referral bonus. And we ended the conversation with both of us shaken up over it.
  
- ## 
+## The Hangover
  
 That night as I came out of my overcharged state, I felt ashamed of what I had done. 
 
@@ -75,40 +75,42 @@ She also needed me, as her hiring manager counterpart, to be successful at her r
 
 > There would be no escape.
 
-The next day, I gathered myself and apoligized to Bryce face to face. And though she was still feeling hurt, she tentatively accepted my apology. 
+The next day, I gathered myself and apologized to Bryce face to face. 
+
+## Redemption 
+
+Though Bryce was still feeling hurt, she tentatively accepted my apology.
+
+And then over the next several months, something that I never expected happened. 
+
+> _Somehow, Bryce and I became friends_
+
+At first, we were both afraid of a repeat of our first-week incident. We were careful not to get overexcited and pushy with each other.
+
+Before too long, our plans came together and we made our first couple hires. As if by magic, our cautious compromise started relaxing into a partnership!
+
+Here's what I think happened.
+
+Bryce and I were both hard-charging at work. We both liked to move faster than most people were comfortable. We had track records of quick results. This may be why we collided so badly in the beginning.
+
+Our early train crash forced us to take things slower with each other than our natural tendencies. Our fears made us more alert and more willing to hear each other out. Our fragile relationship couldn't survive one of us misinterpreting the other and overreacting.
+
+This led to a healthy give-and-take. We came up with plans and executed differently than how either of us would have preferred to. 
+
+We were both skeptical for a while until actually started hiring people. First one... then two... eventually five and more!
+
+We learned that the other's ideas had value. Ideas we never thought of on our own. And so, we developed a respect for each other as professionals.
+
+And neither took the lion's share of the credit for our wins. We celebrated together. And we commiserated over our failures too.
+
+It was in these emotional times where we could be there for each other that our friendship emerged. 
 
 ##
 
-Over the next several months, something that I never expected happened. 
+For some reason, I had a certain professional distance with most of my colleagues at Clara. While we liked each other, it was hard for me to call them "friends". 
 
-> _Bryce and I became friends_
+Bryce was among the few that I considered a friend by the end. My experience at work was so much richer for it. 
 
-It started slowly. Our first test was learning to work together. We needed to hire engineers and our approaches were polar opposites on some ways.
+And I'm grateful to her for that.
 
- I had hired quite a lot in my time as a manager. My strategy was to combine high volume outreach with easy to administer online tests. This was great for finding the "diamond's in the rough". Developers who didn't look great on paper but who were, in fact, talented.
- 
- Bryce's style was to carefully select the candidates most likely to be a good fit, both technically and culturally, and then craft fairly personalized messages to them. 
- 
- She wanted to pay attention to every detail so that candidates experienced a personal touch from in their every interaction with us, from the first message down to offer or even rejection.
- 
-I could have insisted on my approach, which had worked for me repeatedly in different contexts. Instead, I chose to trust that she knew what she was doing. And that she'd be able to adapt to whatever challenges came our way.
-
-I also liked how her way seemed more humane and inline with my recently adopted values. So I didn't stay attached to my way. I let it go. And instead, I supported her as best as I could.
-
-It took a leap of faith because for months, eng hiring was slow. As we worked on it together, it got better and better until it was in a nice stable place.
-
-Almost as soon as I was feeling pleased with hiring, Bryce asked for feedback on one of her teammembers, the recruiter assigned to engineering.  
-
-I could tell that she needed my support to let that team member go. I was actually working well with that recruiter. Letting him go would like slow my engineering hiring down. 
-
-I could have insisted that she keep him around. But I sensed could they weren't getting along. They were both distressed over it. So for both their sake--and for my relationship with Bryce--I supported her move.
-
-It was another chance for me to be afraid of what might happen, or to trust in another. Again, we worked it out after a couple months and we both reveled in the success. 
-
-We were partners and we celebrated our wins together.   
-
-##
-
-There's something about relationships and trusting in people that seems to bring out the best in us.  
-
- 
+Bryce, if you happen to see this one day, thank you simply for being you. 
