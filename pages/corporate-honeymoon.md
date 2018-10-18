@@ -8,7 +8,7 @@ They say that when we fall madly in love, were not in love with a real person. W
 
 If there are any qualities that we lack for ourselves (joy, self-worth, strength, etc.) we project them onto our object of affection. Somehow that other person makes us complete, as impossible as that might be.
 
-For a while, we're blind to our lover's flaws and imperfections. Whatever part of us tends to judge and criticise--even if it's just secretly in our heads--stays quiet.
+For a while, we're blind to our lover's flaws and imperfections. Whatever part of us tends to judge and criticize--even if it's just secretly in our heads--stays quiet.
 
 But after some time, we start to notice cracks in our ideal image of the other. We might notice a habit or two that we find annoying. Perhaps we discover this person disagrees with a value that we hold dear. 
 
@@ -16,7 +16,7 @@ And we wonder: _How did I ever miss this? If only I knew!_
 
 But we couldn't know. We're evolutionarily wired to fall into romantic love. Our genetic programming gives us this temporary hallucination for its own ends. 
 
-> _Our imaginitive drive is so powerful, there's little we can do to be fully in touch with our reality._
+> _Our imaginative drive is so powerful, there's little we can do to be fully in touch with our reality._
 
 It turns out that this is true other types of experiences too. I've often talked of a "honeymoon period" when someone first joins a company. I've seen it last three to six months for most people. And I'm no different.
 
@@ -28,7 +28,7 @@ This is the story of my honeymoon at Clara Lending.
 
 ### The Bad Breakup
 
-Before I was CTO at Clara, I was a Senior Director at Workday. I was responsible for a team of 60 people, the most ever for me. It was a public company with five thousand employees and the majority knew of me or my team. I had been there two years and I had five to six figures worth of stock vesting almost every month--that's on top of my nice tech salary.
+Before I was CTO at Clara Lending, I was a Senior Director at Workday. I was responsible for a team of 60 people, the most ever for me. It was a public company with five thousand employees and the majority knew of me or my team. I had been there two years and had five to six figures worth of stock vesting almost every month--on top of my nice tech salary.
 
 > _I had staus, power, and what was quickly becoming a life-changing amount of money._ 
 
@@ -38,66 +38,60 @@ I had a bad relationship with my boss. I didn't respect many of my executive pee
 
 I didn't like who I was at this company. For some reason, I had taken on this persona of a cocky tech entrepreneur. It's as if impressing people with my flashiness would magically make me more successful.
 
-And maybe even more important for me, I was insecure in myself as a manager. I had grown to value "good management" and desperately wanted to be good at it, but I wasn't sure if I was. My close friend, Barzel, was technically my only report and acted at the "chief of staff" of our team. He was the one that ran things day-to-day.
-
-> _So when I decided to leave, it wasn't because I couldn't stand the company anymore. It was because I couldn't tollerate who **I was there**._
+> _So when I decided to leave for Clara, it wasn't because I couldn't stand Workday anymore. It was because I couldn't tolerate who **I was there**._
 
 
 ## A Shining City on a Hill
 
 I had many motivations going into Clara and [I wrote about them earlier](/motivation-at-clara). But what energized me most was my vision of what kind of company Clara could become--and my role in creating it. 
 
-I imagined an environment where everyone was constantly learning and growing. Where it was ok to be vulnerable, to not know, to make mistakes, because our co-workers--our friends--would be there for us. They would trust in our good intentions and support us in our personal development.
+I imagined an environment where everyone was constantly learning and growing. Where it was ok to be vulnerable, to not know, to make mistakes, because our co-workers--our friends--would be there for us. We would trust each other in our good intentions and have the support we need for our personal growth.
 
-This was a place where we could be our full selves. Not just the professional sliver that we feel "safe" to show. Our talents, desires, and fears could all be on full display. And we could all feel fulfilled.
+This was a place where we could be our full selves. Not just the professional sliver that we feel "safe" to show. Our talents, desires, and fears could all be on full display. And we could all truly be safe and fulfilled.
 
-Managers wouldn't "run" teams. Teams would run themselves. The managers would be their coaches and biggest supporters. They'd shine lights on the teams' blind spots and support each individual on their own personal growth path.
+Managers wouldn't run teams. Teams would run themselves. The managers would be their coaches and biggest supporters. They'd shine lights on the teams' blind spots and support each individual through their own personal development.
 
-And then there'd be me. 
+Clara would be the kind of company I wished existed, but I never experienced.
 
-> _I would model the ideal manager as a sort of moral authority for others to emulate. I would be the sherpa that guided them to Utopia._
+But I knew Clara wasn't there yet. It would need help. And that's where I would come in:
 
-I didn't literally think these thoughts. Just like when we get into a new relationship, we don't litterally think: _Ooh, now I have that sense of self-worth that I've been missing all these years!._
+> _I would model the ideal manager as a sort of moral authority for others to emulate. I would be the sherpa that guides them to Utopia._
 
-We're rarely aware of what exactly we're missing in our lives. Mostly we just think things like: _"I like this person."_ Or in my case: _"I like this company. It just **feels** right_
 
-### Intrinsic Motivation
+## "Already There" Illusion
 
-I was so attached to my ideas that I started having issues literally on the first day.
+Clara was a year old when I joined. Our engineering team already had a tendency to build things the "right way". This meant investing in extra work _up front_ so things would work better and be easier to maintain _later_. 
 
-That day I overheard that we were going to implmenent a referral bonus. And my immediate reaction was:
+The problem was that _**we hadn't sold anything**_ to a real customer yet. Our future was uncertain. We didn't know if anyone wanted what we were building or ever would.
 
-> _Why would employees need an incentive to refer their freinds to such a wonderful place? Adding money to the mix would dirty our pristine waters!_
+I've been at enough startups to know that there's a fine balance to investing in the future vs delivering something today. And in this case, my experience should have told me that we needed to deliver ASAP.
 
-And I promtly got into a fight with Bryce, our new head of recruiting, who was about to implement the bonus program. I had intended to inform her about intrinsic motivation and explain why a bonus would cause more harm than good. But the only thing I succeeded in was making her feel demeaned.
+But that experience didn't kick in. Instead, I believed we were on a predictable march towards a profitable business. And we would soon become a large and enlightened company. My desire to create an ideal environment was so strong, I imagined that it was already happening. I was living out my dream for Clara one day at a time. 
 
-I spent a lot of time apologising that week. Thankfully, Bryce was forgiving.
+So I continued and encouraged Clara's engineering tendencies. I planned for the long-term and made our short-term business success secondary.  
 
-But my bigger mistakes were strategic.
+I had supported what turned out to be a two-month refactoring project that took almost half our team. That was 5% of our engineering runway right there!
 
-### "Already There" Illusion
+We then invested in a couple of man-years into engineering and office productivity. Because, hey, everyone is happier when things "just work". Even though the office might not be around in 24 months.
 
-Clara was a year old when I joined. Our engineering team already had a tendency to build things the "right way". This meant investing in extra work _up front_ so things would work better or and be easier to maintain _later_. 
+And I spent an inordinate amount of time trying to hire women engineers. Because, of course, my ideal company was egalitarian and progressive. But it was a costly use of our scarce resources.
 
-The problem was that we _**hadn't sold anything**_ to a real customer yet. 
+And there were lots of other smaller examples.
 
-> _Our future was uncertain. We didn't know if anyone wanted what we were building or ever would._ 
+> _This all made sense if our success really was inevitable. But it wasn't._
 
-But I acted as if our success was a foregone conclusion. I continued, and encouraged, Clara's engineering tendencies by planning for the long term and making our short-term business success secondary.  
+I'm pretty sure I wasn't the only one thinking this way because others acting this way too. But as the CTO, I played a big role. And I now have enough emotional distance to see how my actions  contributed to our demise.
 
-I've been at enough startups to know that this was a losing approach. Our best bet would to focus on the smallest increments of work possible to would move our business forward, starting by proving that people actually wanted what we had to offer.
+We spent too much time and money investing in into the distant future without enough to show for it in the present. And both the time and the money ran out. 
 
-> _My vision was clouded by my fantasy of what Clara could be--**would be**--in a few short years._
-
-I wasn't the only one trapped inside an self-imposed illusion. Others were acting in similar ways. But as the CTO, I played a big role. And I now have enough emotional distance to see how my actions directly contributed to our demise.
 
 ## The Crux of Leadership
 
-It took me half a year to return from my honeymoon and get back to reality. I was startled to realize that the company, by boss, my collegues, weren't the perfect creatures I had imagined them to be. 
+It took me half a year to return from my honeymoon and get back to reality. I was startled to realize that the company, my boss, my colleagues, weren't the perfect creatures I had imagined them to be. 
 
-And then [my disallusionment set in](/the-safety-bubble)--like a relationship when the initial high of the romance wears off. And we start to see our partners for the ordinary and flawed human beings that they are.
+And then [my disillusionment set in](/the-safety-bubble)--like a relationship when the initial high of the romance wears off. And we start to see our partners for the ordinary and flawed human beings that they are.
 
-So now I spend my days doing "inner work" trying to notice my objective reality. Or rather, I practive noticing the stories I'm telling myself about what's happening around me:
+So now I spend my days doing "inner work" trying to notice my objective reality. Or rather, I practice noticing the stories I'm telling myself that cover up my reality:
 
 > _Why my wife and I are fighting (and it's all her fault)._
 > _Why I'm frustrated ay my daughter (and how she simply needs to listen)._
@@ -109,4 +103,4 @@ Our mental stories are a powerful tool. As leaders, we can use them to paint a p
 
 > _The crux of leadership is to ground our stories in reality._ 
 
-Remember that our stories are just possibilties. The future is always uncertain and will surpise us. 
+I like to remind myself that our stories are only possibilities. The future is always uncertain and will surprise us. 
