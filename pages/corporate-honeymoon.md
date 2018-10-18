@@ -26,7 +26,7 @@ This is the story of my honeymoon at Clara Lending.
 
  
 
-### The Bad Breakup
+## The Bad Breakup
 
 Before I was CTO at Clara Lending, I was a Senior Director at Workday. I was responsible for a team of 60 people, the most ever for me. It was a public company with five thousand employees and the majority knew of me or my team. I had been there two years and had five to six figures worth of stock vesting almost every month--on top of my nice tech salary.
 
