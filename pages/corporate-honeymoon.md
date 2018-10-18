@@ -4,23 +4,23 @@
 
 ![](https://d235962hz41e70.cloudfront.net/honeymoon.jpeg)
 
-They say that when we fall madly in love, were not in love with a real person. We're infatuated with our idea of that person.
+They say that when we fall madly in love, we're not in love with a real person. We're infatuated with our idea of that person.
 
-If there are any qualities that we lack for ourselves (joy, self-worth, strength, etc.) we project them onto our object of affection. Somehow that other person makes us complete, as impossible as that might be.
+If there are any qualities that we lack in ourselves (joy, self-worth, strength, etc.) we project them onto our object of affection. Somehow that other person makes us feel complete, as impossible as that might be.
 
-For a while, we're blind to our lover's flaws and imperfections. Whatever part of us tends to judge and criticize--even if it's just secretly in our heads--stays quiet.
+For a while, we're blind to our lover's flaws and imperfections. Whatever part of us that tends to judge and criticize--even if it's just secretly in our heads--stays quiet.
 
-But after some time, we start to notice cracks in our ideal image of the other. We might notice a habit or two that we find annoying. Perhaps we discover this person disagrees with a value that we hold dear. 
+But after some time, we start to notice cracks in our ideal image of the other person. We might notice a habit or two that we find annoying. Perhaps we discover this person disagrees with a value that we hold dear. 
 
 And we wonder: _How did I ever miss this? If only I knew!_
 
-But we couldn't know. We're evolutionarily wired to fall into romantic love. Our genetic programming gives us this temporary hallucination for its own ends. 
+But we couldn't have known. We're evolutionarily wired to fall into romantic love. Our genetic programming gives us this temporary hallucination for its own ends. 
 
 > _Our imaginative drive is so powerful, there's little we can do to be fully in touch with our reality._
 
-It turns out that this is true other types of experiences too. I've often talked of a "honeymoon period" when someone first joins a company. I've seen it last three to six months for most people. And I'm no different.
+It turns out that this is true for other types of experiences, too. I've often talked of a "honeymoon period" when someone first joins a company. I've seen it last three to six months for most people. And I'm no different.
 
-When I first joined my last startup, I had a had created an idealistic image of how wonderful the company could be. Those ideals blinded me and led me to make mistakes at my job. These mistakes contributed to the company needing to get acquired two years later because we weren't able to succeed as an independent business. 
+When I first joined my last startup, I had created an idealistic image of how wonderful the company could be. Those ideals blinded me and led me to make mistakes at my job. These mistakes contributed to the company needing to get acquired two years later because we weren't able to succeed as an independent business. 
 
 This is the story of my honeymoon at Clara Lending.
 
@@ -38,12 +38,12 @@ I had a bad relationship with my boss. I didn't respect many of my executive pee
 
 I didn't like who I was at this company. For some reason, I had taken on this persona of a cocky tech entrepreneur. It's as if impressing people with my flashiness would magically make me more successful.
 
-> _So when I decided to leave for Clara, it wasn't because I couldn't stand Workday anymore. It was because I couldn't tolerate who **I was there**._
+> _So when I decided to leave for Clara, it wasn't because I couldn't stand Workday anymore, it was because I couldn't tolerate who **I was there**._
 
 
 ## A Shining City on a Hill
 
-I had many motivations going into Clara and [I wrote about them earlier](/motivation-at-clara). But what energized me most was my vision of what kind of company Clara could become--and my role in creating it. 
+I had many motivations going into Clara and [I wrote about them earlier](/motivation-at-clara). But what energized me most was my vision of what kind of a company Clara could become--and my role in creating it. 
 
 I imagined an environment where everyone was constantly learning and growing. Where it was ok to be vulnerable, to not know, to make mistakes, because our co-workers--our friends--would be there for us. We would trust each other in our good intentions and have the support we need for our personal growth.
 
@@ -53,7 +53,7 @@ Managers wouldn't run teams. Teams would run themselves. The managers would be t
 
 Clara would be the kind of company I wished existed, but I never experienced.
 
-But I knew Clara wasn't there yet. It would need help. And that's where I would come in:
+I knew Clara wasn't there yet and it would need help getting there. And that's where I thought I would come in:
 
 > _I would model the ideal manager as a sort of moral authority for others to emulate. I would be the sherpa that guides them to Utopia._
 
@@ -70,7 +70,7 @@ But that experience didn't kick in. Instead, I believed we were on a predictable
 
 So I continued and encouraged Clara's engineering tendencies. I planned for the long-term and made our short-term business success secondary.  
 
-I had supported what turned out to be a two-month refactoring project that took almost half our team. That was 5% of our engineering runway right there!
+I had supported what turned out to be a two-month refactoring project that occupied almost half of our team. That was a whole man-year of engineering time right there!
 
 We then invested in a couple of man-years into engineering and office productivity. Because, hey, everyone is happier when things "just work". Even though the office might not be around in 24 months.
 
@@ -78,22 +78,18 @@ And I spent an inordinate amount of time trying to hire women engineers. Because
 
 And there were lots of other smaller examples.
 
-> _This all made sense if our success really was inevitable. But it wasn't._
+> _This all would have made sense if our success was assured. But it wasn't._
 
-I'm pretty sure I wasn't the only one thinking this way because others acting this way too. But as the CTO, I played a big role. And I now have enough emotional distance to see how my actions contributed to our demise.
-
-We spent too much time and money investing in into the distant future without enough to show for it in the present. And both the time and the money ran out. 
+We spent too much time and money investing into the distant future without enough to show for it in the present. And both, the time and the money, ran out. 
 
 
 ## The Crux of Leadership
 
-It took me half a year to return from my honeymoon and get back to reality. I was startled to realize that my boss and my colleagues weren't the perfect creatures I had imagined them to be. 
+It took me half a year to snap out of my honeymoon phase and see reality clearly again. I was startled to realize that my boss and my colleagues weren't the perfect creatures I had imagined them to be. And, that our company was just another struggling business that might not survive another year.
 
-And that our company was just another struggling business that might not survive another year.
+And, then, [my disillusionment set in](/the-safety-bubble)--like in a relationship when the initial high of the romance wears off, when we start to see our partners for the ordinary and flawed human beings that they are.
 
-And then [my disillusionment set in](/the-safety-bubble)--like a relationship when the initial high of the romance wears off. And we start to see our partners for the ordinary and flawed human beings that they are.
-
-So now I spend my days doing "inner work" trying to notice my objective reality. Or rather, I practice noticing the stories I'm telling myself that cover up my reality. Mostly I notice the everyday variety:
+These days, I spend my time doing "inner work" trying to notice my objective reality. Or rather, I practice noticing the stories I'm telling myself that cover up my reality. Mostly I notice the everyday variety:
 
 > _Why my wife and I are fighting (and why it's all her fault)._
 
@@ -101,7 +97,7 @@ So now I spend my days doing "inner work" trying to notice my objective reality.
 
 > _How I'm a great coach or why I'm a terrible coach (so many reasons)._
 
-These thoughts are often implicit, below the surface of my awareness. Just like my vision for Clara was. 
+These thoughts are often implicit, below the surface of my awareness. I'm not conciously aware that I have them, but they inform my feelings and beliefs. Just like my idealistic vision for Clara shaped my decisions without me realizing it. 
 
 Our mental stories are a powerful tool. As leaders, we can use them to paint a picture of a better future and motivate ourselves and others to act on it.
 
