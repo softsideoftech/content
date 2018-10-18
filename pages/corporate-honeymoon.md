@@ -1,8 +1,8 @@
 # My Honeymoon with Clara
 
->> _September 26th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
+>> _October 18th, 2018 by [Vlad Giverts](/purposeful-leadership-coaching)_
 
-![](https://d235962hz41e70.cloudfront.net/hurt-bear.jpeg)
+![](https://d235962hz41e70.cloudfront.net/honeymoon.jpeg)
 
 They say that when we fall madly in love, were not in love with a real person. We're infatuated with our idea of that person.[:1]
 
