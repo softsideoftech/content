@@ -4,7 +4,7 @@
 
 ![](https://d235962hz41e70.cloudfront.net/honeymoon.jpeg)
 
-They say that when we fall madly in love, were not in love with a real person. We're infatuated with our idea of that person.[:1]
+They say that when we fall madly in love, were not in love with a real person. We're infatuated with our idea of that person.
 
 If there are any qualities that we lack for ourselves (joy, self-worth, strength, etc.) we project them onto our object of affection. Somehow that other person makes us complete, as impossible as that might be.
 
@@ -80,21 +80,25 @@ And there were lots of other smaller examples.
 
 > _This all made sense if our success really was inevitable. But it wasn't._
 
-I'm pretty sure I wasn't the only one thinking this way because others acting this way too. But as the CTO, I played a big role. And I now have enough emotional distance to see how my actions  contributed to our demise.
+I'm pretty sure I wasn't the only one thinking this way because others acting this way too. But as the CTO, I played a big role. And I now have enough emotional distance to see how my actions contributed to our demise.
 
 We spent too much time and money investing in into the distant future without enough to show for it in the present. And both the time and the money ran out. 
 
 
 ## The Crux of Leadership
 
-It took me half a year to return from my honeymoon and get back to reality. I was startled to realize that the company, my boss, my colleagues, weren't the perfect creatures I had imagined them to be. 
+It took me half a year to return from my honeymoon and get back to reality. I was startled to realize that my boss and my colleagues weren't the perfect creatures I had imagined them to be. 
+
+And that our company was just another struggling business that might not survive another year.
 
 And then [my disillusionment set in](/the-safety-bubble)--like a relationship when the initial high of the romance wears off. And we start to see our partners for the ordinary and flawed human beings that they are.
 
-So now I spend my days doing "inner work" trying to notice my objective reality. Or rather, I practice noticing the stories I'm telling myself that cover up my reality:
+So now I spend my days doing "inner work" trying to notice my objective reality. Or rather, I practice noticing the stories I'm telling myself that cover up my reality. Mostly I notice the everyday variety:
 
-> _Why my wife and I are fighting (and it's all her fault)._
+> _Why my wife and I are fighting (and why it's all her fault)._
+
 > _Why I'm frustrated ay my daughter (and how she simply needs to listen)._
+
 > _How I'm a great coach or why I'm a terrible coach (so many reasons)._
 
 These thoughts are often implicit, below the surface of my awareness. Just like my vision for Clara was. 
