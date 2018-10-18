@@ -24,6 +24,7 @@ With love,
 Vlad
 <br>
 <br>
+<br>
 P.S. Thank you to everyone that volunteered to beta test my Inner Leadership Development course. If you want to get in touch with your innate leadership potential, but didn't join the beta, don't worry. I'll be launching the full course in the new year. 
   
 So stay tuned :) 
