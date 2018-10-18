@@ -20,8 +20,8 @@ When I first joined my last startup, I had created an idealistic image of how wo
 
 This is the story of **[my honeymoon at Clara Lending](https://softsideoftech.com/corporate-honeymoon)**.
 
-With love,
+With love,  
 Vlad
-  
-  
+<br>
+<br>
 P.S. Thank you to everyone that volunteered to beta test my Inner Leadership Development course. If you've wanted to get in touch with your innate leadership potential, but didn't join the beta, I'll be launching the full course in the new year. So stay tuned :) 
