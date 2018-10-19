@@ -30,7 +30,7 @@ This is the story of my honeymoon at Clara Lending.
 
 Before I was CTO at Clara Lending, I was a Senior Director at Workday. I was responsible for a team of 60 people, the most ever for me. It was a public company with five thousand employees and the majority knew of me or my team. I had been there two years and had five to six figures worth of stock vesting almost every month--on top of my nice tech salary.
 
-> _I had staus, power, and what was quickly becoming a life-changing amount of money._ 
+> _I had status, power, and what was quickly becoming a life-changing amount of money._ 
 
 I was lucky. By many people's standards, I should have been grateful. But I was miserable.  
 
