@@ -1,7 +1,7 @@
-# {{.Name}}
-
-{{ range $session := .Course.Sessions }}
-## [{{$session.Name}}]({{$.Course.Url}}/{{$session.Name}})  
+# {{.CourseConfig.Name}}
+{{ $url := .Url }}
+{{ range $session := .CourseConfig.Sessions }}
+## [{{$session.Name}}]({{$url}}/{{$session.Name}})  
 
  <video id="my-video" class="video-js" controls preload="auto" width="640" height="264"
   poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
