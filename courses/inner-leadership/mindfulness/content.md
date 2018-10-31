@@ -1,1 +1,0 @@
-Mindfulness description placeholder

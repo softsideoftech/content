@@ -1,8 +1,24 @@
 name: Developing Your Inner Leadership
-sessions: 
-  - name: the-island
-    day: 1
-  - name: mindfulness
-    day: 3
+
+sessions:
+- name: (Preview) The Island
+  url: the-island
+  day: -1
+  description: When we achieve a big personal goal, why do we only feel better for a short time? And why do we often feel worse afterward?
+
+- name: (Bonus Video) Your Brain on Meditation
+  url: your-brain-on-meditation
+  day: -1
+  description: What are some of of the observable changes that happen to our brain when we meditate?
+
+- name: Mindfulness
+  url: mindfulness
+  day: 1
+  description: It's not what you think it is. You're actually doing training in discomfort.
+
+- name: Body and Mind
+  url: body-and-mind
+  day: 3
+  description: What's the difference? Are we confusing one for the other?
 emails:
   sendhour: 9

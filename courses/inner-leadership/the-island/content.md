@@ -1,1 +1,0 @@
-The Island description placeholder

@@ -19,15 +19,16 @@
     </div>
 </div>
 <div id="column-body">
-
+    <h2><a href="{{.Request.ConfigObj.Course.Url}}">{{.Request.ConfigObj.Course.Name}}</a></h2>
+    <h1>{{.Request.ConfigObj.Name}}</h1>
     <video id="my-video" class="video-js" controls preload="auto" width="640" height="264"
-           poster="{{.PathPrefix}}{{.VideoName}}.jpg" data-setup="{}">
-        <source src="{{.PathPrefix}}{{.VideoName}}.mp4" type='video/mp4'>
+           poster="{{.Request.ConfigObj.VideoThumbnail}}" data-setup="{}">
+        <source src="{{.Request.ConfigObj.VideoUrl}}" type='video/mp4'>
         <p class="vjs-no-js">
             This video player uses JavaScript and HTML5. To view this video please enable JavaScript.
         </p>
     </video>
-
+    {{.Body}}
     <script src="https://vjs.zencdn.net/7.1.0/video.js"></script>
 
     <hr>
