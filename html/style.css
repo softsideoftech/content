@@ -506,3 +506,18 @@ iframe {
 {
     font-size: 15px;
 }
+
+
+/* ----- Course Pages ----- */
+.video-extras {
+    margin: 0 auto;
+    width: fit-content;
+    text-align: center;
+}
+
+.course-content h3 {
+    margin: 0 0 20px 0;
+}
+.course-content h4 {
+    margin: 0;
+}

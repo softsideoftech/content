@@ -4,8 +4,6 @@
     <meta charset='UTF-8'>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link href="https://vjs.zencdn.net/7.1.0/video-js.css" rel="stylesheet">
-    <script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
 
     <style>{{.Css}}</style>
 </head>
@@ -18,19 +16,26 @@
         </a>
     </div>
 </div>
-<div id="column-body">
-    <h2><a href="{{.Request.ConfigObj.Course.Url}}">{{.Request.ConfigObj.Course.Name}}</a></h2>
+<div id="column-body" class="course-content">
+    <h3><a href="{{.Request.ConfigObj.Course.Url}}">{{.Request.ConfigObj.Course.Name}}</a></h3>
     <h1>{{.Request.ConfigObj.Name}}</h1>
-    <video id="my-video" class="video-js" controls preload="auto" width="640" height="264"
-           poster="{{.Request.ConfigObj.VideoThumbnail}}" data-setup="{}">
-        <source src="{{.Request.ConfigObj.VideoUrl}}" type='video/mp4'>
-        <p class="vjs-no-js">
-            This video player uses JavaScript and HTML5. To view this video please enable JavaScript.
-        </p>
+    <video controls preload="auto" width="640" height="360"
+           poster="{{.Request.ConfigObj.VideoUrl}}.jpg" data-setup="{}">
+        <source src="{{.Request.ConfigObj.VideoUrl}}.mp4" type='video/mp4'>
+        This video player requires HTML5.
     </video>
-    {{.Body}}
-    <script src="https://vjs.zencdn.net/7.1.0/video.js"></script>
+{{.Body}}
 
+    <div class="video-extras">
+        <a href="{{.Request.ConfigObj.Url}}/transcript">Read the video transcript here.</a>
+        <br/><br/>
+        Or listen to just the audio
+        <br/>
+        <audio controls>
+            <source src="{{.Request.ConfigObj.VideoUrl}}.mp3" type="audio/mpeg">
+            Your browser does not support the audio element.
+        </audio>
+    </div>
     <hr>
 
     <div id="medium-logo" class="bear-img"></div>

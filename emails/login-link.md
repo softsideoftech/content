@@ -1,6 +1,6 @@
 {{.FirstName}},
 
-Here's your login link for {{.PageTitle}}:
+Here's your {{.SiteName}} login link:
 
 [Click Here To Log In]({{.DestinationUrl}})
 
