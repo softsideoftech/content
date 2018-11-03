@@ -1,2 +1,2 @@
 <br/>
-{{ .ConfigObj.Description }}
+{{ .ConfigObj.Video }}

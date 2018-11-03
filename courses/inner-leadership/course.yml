@@ -1,24 +1,25 @@
 name: Developing Your Inner Leadership
-
+shortname: Inner Leadership
 sessions:
 - name: (Preview) The Island
   url: the-island
   day: 0
-  description: When we achieve a big personal goal, why do we only feel better for a short time? And why do we often feel worse afterward?
+  video: When we achieve a big personal goal, why do we only feel better for a short time? And why do we often feel worse afterward?
 
 - name: (Bonus Video) Your Brain on Meditation
   url: your-brain-on-meditation
   day: 0
-  description: What are some of of the observable changes that happen to our brain when we meditate?
+  video: What are some of of the observable changes that happen to our brain when we meditate?
 
 - name: Training For Inner Work
   url: meditation
   day: 1
-  description: Meditation is not what you think it is. You're actually doing training in discomfort.
+  video: Meditation is not what you think it is. You're actually doing training in discomfort.
+  email: Here's the first official video for the course and it introduces our first (and most foundational) practice. It's only 9 minutes long, so I'll let the video speak for itself.
 
 - name: Body and Mind
   url: body-and-mind
   day: 3
-  description: What's the difference? Are we confusing one for the other?
+  video: What's the difference? Are we confusing one for the other?
 emails:
-  sendhour: 9
+  sendhour: 8
