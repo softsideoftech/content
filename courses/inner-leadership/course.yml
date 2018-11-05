@@ -6,20 +6,50 @@ sessions:
   day: 0
   video: When we achieve a big personal goal, why do we only feel better for a short time? And why do we often feel worse afterward?
 
-- name: (Bonus Video) Your Brain on Meditation
-  url: your-brain-on-meditation
-  day: 0
-  video: What are some of of the observable changes that happen to our brain when we meditate?
-
 - name: Training For Inner Work
   url: meditation
   day: 1
   video: Meditation is not what you think it is. You're actually doing training in discomfort.
   email: Here's the first official video for the course and it introduces our first (and most foundational) practice. It's only 9 minutes long, so I'll let the video speak for itself.
 
-- name: Body and Mind
-  url: body-and-mind
+- name: Find a Buddy
+  day: 2
+  email: |
+    The inner-work journey is hard. The pain and challenge of it is unavoidable. That's why we need buddies. Someone that understands what we're going through. Someone that can be there for us without trying to "help" or "fix" us. Somehow, being _in relationship_ with another person makes our struggle more tollerable (though not any easier.).
+    <br/><br/>
+    So it's time you find yourself a buddy. Someone you will support and who will support you in return for these next three month.
+    <br/><br/>
+    Go ahead and reach out to one of you classmates. It's best you do it now.
+    <br/><br/>
+    _And if you haven't already, today is a good day to share something about yourself with the group._
+    <br/><br/>
+    You're a leaders with plenty of initiative, so I'm leaving it to you to find a buddy and setup recurring meetings. I recommend once every week or two so you could process some of the material together.
+    <br/><br/>
+    Remember, this course is about your _**experience**_, not the material. The point is not to learn about some new ideas or skills, but to develop embodied understanding of who you are. Your relationship with your buddy and your experience of mutual support is an essencial part of that process.
+    <br/><br/>
+    Once you've confirmed your buddy and scheduled your first meeting, please let me know here so I know that everyone has a match
+    <br/><br/>
+    https://goo.gl/forms/DkGr1YhgjQWFkyj32
+    <br/><br/><br/>
+    One last bit. Since we have an odd number of people, we need one of you to work with two buddies. If you feel you have the room in your life to support and be supported by an additional person, please respond to this email to let me know and I'll tell you how to proceed.
+
+- name: Your Brain on Meditation
+  url: your-brain-on-meditation
   day: 3
-  video: What's the difference? Are we confusing one for the other?
+  video: What are some of of the observable changes that happen to our brain when we meditate?
+  email: As you're getting into your meditation practice, let's take a 3-minute peek at the science behind it -
+
+- name: The Inner critic
+  url: inner-critic
+  day: 8
+  video: As children, this internal enforcer helped us cope with an adult world that we couldn't fully understand. As adults, it bullies us with the maturity of a 9-year-old. As leaders, it errodes people's sense of safety around us and undermines their trust in us.
+  email: Today, we'll talk about an internal enforcer that tries to help us with our daily lives. When we were little children, it enabled us to cope with an adult world that we couldn't fully understand. Now that we're adults, it often bullies us with the maturity of a 9-year-old. And as leaders, it errodes people's sense of safety around us and, inevitably, undermines their trust in us.
+
+- name: Feelings and Responsibility
+  url: feelings-and-responsibility
+  day: 10
+  video: I was having a bad moment when I recorded this. I decided to take ownership for how I felt and share my process with you.
+  email: I recorded this video a few weeks ago while I was having a bad moment. Given the topic of the week (the Inner Critic), I thought the raw experience would be useful for you too see.
+
 emails:
   sendhour: 8

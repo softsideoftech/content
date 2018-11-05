@@ -20,7 +20,7 @@
             {{ $courseDay := .Request.CourseDay }}
             {{ range $session := .Request.ConfigObj.Sessions }}
             
-                {{ if (le $session.Day $courseDay) }}
+                {{ if (and (le $session.Day $courseDay) (ne $session.Url ""))}}
                     <h4>Day {{$session.Day}}</h4>
                     <h3><a href="{{$url}}/{{$session.Url}}">{{$session.Name}}</a></h3> 
                 {{ end }}
