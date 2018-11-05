@@ -2,7 +2,7 @@
 
 {{.Params.Email}}
 
-[{{.Params.Name}}]({{.DestinationUrl}})
+[VIDEO: {{.Params.Name}}]({{.DestinationUrl}})
 
 Warmly,  
 {{.SiteOwnerFirstName}}
