@@ -40,11 +40,41 @@ sessions:
   video: What are some of of the observable changes that happen to our brain when we meditate?
   email: As you're getting into your meditation practice, let's take a 3-minute peek at the science behind it -
 
+- name: Extra Help With Your Practice
+  day: 4
+  email: |
+    How's your meditation practice going? It's ok if you haven't been able to get into it. It's ok if you mind wanders the whole time. Whatever is coming up for you is always ok. 
+
+    If you could use some extra guidance on how to actually do meditation or maybe some support getting started with, I recommend you checkout Headspace -
+    https://www.headspace.com/headspace-meditation-app
+
+    It's a simple app that's free for the first 10 lessons, which could be enough to get over the initial hump. Michelle, my 9-year-old, tried Headspace and was actually meditating on her own for a week. I hear it's pretty good for us adults too...
+
+- name: Weekend Catch Up
+  day: 5
+  email: |
+    If you haven't already, today's the day to find your buddy. Just look back at our group email thread from last week and reach out to someone. It really doesn't matter who. And if you haven't introduced yourself to the group, now would be a good time before we get any father into the course.
+
 - name: The Inner Critic
   url: inner-critic
   day: 8
   video: As children, this internal enforcer helped us cope with an adult world that we couldn't fully understand. As adults, it bullies us with the maturity of a 9-year-old. As leaders, it errodes people's sense of safety around us and undermines their trust in us.
   email: Today, we'll talk about an internal enforcer that tries to help us with our daily lives. When we were little children, it enabled us to cope with an adult world that we couldn't fully understand. Now that we're adults, it often bullies us with the maturity of a 9-year-old. And as leaders, it errodes people's sense of safety around us and, inevitably, undermines their trust in us.
+
+- name: Soul Without Shame
+  day: 9
+  email: |
+    If the last video about the Inner Critic piqued your curiosity and you want to go deeper into the topic, I recommend you check out the book: [Soul Without Shame](https://www.amazon.com/dp/B009GN3DD8/).
+
+    I honestly didn't believe I had an Inner Critic before I read this book. Noticing mine for the first time was an excruciating experience. It actually acted up more than ever before. I had more fights with my wife. I had more frustration and anxiety around my boss. My life felt worse on many levels.
+
+    And I don't regret it for a second.
+
+    I had woken up to the world of constant comparison, expectations, assessment, judgment, etc that I had been living in--along with everyone around me. As harsh as it was, I preferred to see the painful truth of the world over living the lie of "the good life" and continuing to feeling a kind of subtle emptiness, a hollowness, inside of me. 
+
+    Even if you don't have the time or energy to go through the whole book, you might appreciate reading the first few chapters as that's when the realization hit me.
+
+    https://www.amazon.com/Soul-Without-Shame-Liberating-Yourself/dp/150122770X
 
 - name: Feelings and Responsibility
   url: feelings-and-responsibility
@@ -53,4 +83,4 @@ sessions:
   email: I recorded this video a few weeks ago while I was having a bad moment. Given the topic of the week (the Inner Critic), I thought the raw experience would be useful for you too see.
 
 emails:
-  sendhour: 8
+sendhour: 8  
