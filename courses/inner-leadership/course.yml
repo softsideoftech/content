@@ -91,7 +91,13 @@ sessions:
   url: feelings-and-responsibility
   day: 10
   video: I was having a bad moment when I recorded this. I decided to take ownership for how I felt and share my process with you.
-  email: I recorded this video a few weeks ago while I was having a bad moment. Given the topic of the week (the Inner Critic), I thought the raw experience would be useful for you too see.
+  email: I recorded this video a few weeks ago while I was having a bad moment. Given the topic of the week (the Inner Critic), I thought the raw experience would be useful for you to see.
+
+- name: Body Week
+  day: 14
+  email: This week, we're going to start exploring our mind's relationship with our body. So just for today, reflect on what your body means to you. What does it feel like? And how do you feel _about it_?
+  
+  No need to reply to me. You don't even need to answer these questions explicity. Just hold the questions until you see tomorrow's video.
 
 emails:
 sendhour: 8  
