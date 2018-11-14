@@ -95,9 +95,9 @@ sessions:
 
 - name: Body Week
   day: 14
-  email: This week, we're going to start exploring our mind's relationship with our body. So just for today, reflect on what your body means to you. What does it feel like? And how do you feel _about it_?
+  email: |
+    This week, we're going to start exploring our mind's relationship with our body. So just for today, reflect on what your body means to you. What does it feel like? And how do you feel _about it_?
   
-  No need to reply to me. You don't even need to answer these questions explicity. Just hold the questions until you see tomorrow's video.
-
+    No need to reply to me. You don't even need to answer these questions explicity. Just hold the questions until you see tomorrow's video.
 emails:
 sendhour: 8  
