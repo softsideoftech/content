@@ -99,5 +99,23 @@ sessions:
     This week, we're going to start exploring our mind's relationship with our body. So just for today, reflect on what your body means to you. What does it feel like? And how do you feel _about it_?
   
     No need to reply to me. You don't even need to answer these questions explicity. Just hold the questions until you see tomorrow's video.
+    
+- name: Body Scan
+  url: body-scan
+  day: 15
+  video: Here is our second Inner Work fitness exercise. Like meditation, building up the capacity to sense our bodies is essencial to tapping into our leadership potential.
+  email: Today, I'll share our second Inner Work "fitness exercise". Building up the capacity to sense our bodies will be essencial to tapping into our leadership potential.
+ 
+- name: Body vs Mind
+  url: body-vs-mind
+  day: 17
+  video: We often experience the world as if our thinking mind is who we are and our body is it's tool to carry out our needs and desires. Is the brain really the operator and the body a machine? Or is there something deeper going on that we often miss?
+  email: | 
+    I'd like to share something that came as a surprise to me when I first realized it.
+    
+    We often experience the world as if our thinking mind is who we are and our body is it's tool to carry out our needs and desires. 
+    
+    But is the brain really the operator and the body a machine? Or is there something deeper going on that we often miss?
+  
 emails:
-sendhour: 8  
+  sendhour: 8  
