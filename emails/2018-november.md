@@ -2,9 +2,9 @@
 
 I don't have any new writing for you today. I had made a commitment to myself to share one essay a month for at least a year and a part of me is dissapointed to be missing this month. I was afraid I wouldn't have the energy this time, so I didn't try.
 
-I'm in the third week of a three-week Inner Leadership Course that I'm creating "just in time" as we go. 11 friends have volunteered themselves to go on this journey with me. I'm grateful for how open, vulnerable and curious they've been so far.
+I've been putting my energy into creating a three-month long Inner Leadership Course. Eleven friends have volunteered to go on this journey with me. We're three weeks in and I'm grateful for how open, vulnerable and curious they've been.
 
-I made a course video that resonated them and I'd like to share it with you too. It's my own rendition of a story called "The Island Where It All Turns Out."
+I made a course video that resonated with them and I'd like to share it with you. It's my own rendition of a story called "The Island Where It All Turns Out."
 
 I first heard it from Steve March, who was my teacher when I studied coaching at New Ventures West.
 
