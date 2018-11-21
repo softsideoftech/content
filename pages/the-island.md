@@ -6,7 +6,8 @@
   <source src="https://d235962hz41e70.cloudfront.net/courses/inner-leadership/the-island.mp4" type='video/mp4'>
     This video player requires HTML5.
 </video>
-
+<br/>
+<br/>
 When we achieve a big personal goal, why do we only feel better for a short time? And why do we often feel worse afterward?
 
 This is my own rendition of a story called "The Island Where It All Turns Out."
