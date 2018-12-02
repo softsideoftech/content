@@ -1,4 +1,4 @@
-{{.FirstName}}
+{{.FirstName}},
 
 {{.Params.Email}}
 

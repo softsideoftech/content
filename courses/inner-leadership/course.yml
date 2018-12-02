@@ -189,7 +189,7 @@ sessions:
 - name: Relationships
   day: 28
   email: |
-    This week we'll make a shift from solely focusing on our inner experience to also exploring our relational world. To prepare for the week, start take an account of the relationships in your life: your family members, co-workers, friends, and whoever else you feel connected to.
+    This week we'll make a shift from solely focusing on our inner experience to also exploring our relational world. To prepare for the week, start to think about the relationships in your life: your family members, co-workers, friends, and whoever else you feel connected to.
     
     You don't even have to do this conciously. Just hold the intention for today and see what comes up for you.
   
@@ -208,5 +208,22 @@ sessions:
   
     For today's video, we'll explore something quite subtle. This is something we're almost always doing when we talk to people, but are rarely aware of.   
   
+- name: Group Session Tomorrow 
+  day: 44
+  email: Tomorrow, we have our next live group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+  
+- name: Group Session Tomorrow 
+  day: 65
+  email: Tomorrow, we have our next live group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+  
+- name: Group Session Tomorrow 
+  day: 79
+  email: Tomorrow, we have our next live group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+  
+- name: Final Group Session Tomorrow 
+  day: 93
+  email: Tomorrow, we have our final group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+
+
 emails:
   sendhour: 8  
