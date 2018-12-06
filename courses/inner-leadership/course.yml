@@ -211,7 +211,10 @@ sessions:
 - name: (Live Recording) 2nd Group Call
   url: second-group-call
   day: 32
-  video: This was our second live group session. A few people shared how meditation has helped them in their day to day lives. We touched on how inner development actually comes about. We also shared our various struggles and 
+  video: |
+    A few people shared stories of how meditation has affected them in their day to day lives. We shared our struggles of engaging with the practices. We discussed how our desire for self improvement and freedom from stress can actually undermine our innner development process. And quite a bit more.
+
+    Endre mentioned something in his check-out that struck me. He said he's learned a lot about his own thoughts and emotions just by hearing about everyone else's experiences. I think this is a valuable benefit of working in a group like we are. We have so much more in common than not. And when we hear about our classmate's struggles or inner learnings, we often notice those same things in ourselves.
   email: |
     Here's the video of our second live session.
 
