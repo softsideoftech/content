@@ -204,7 +204,7 @@ sessions:
   url: relating-without-an-agenda
   video: Here we explore something quite subtle. This is something we're almost always doing when we talk to people, but are rarely aware of.
   email: |
-    Tomorrow, we have our next live group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+    Tomorrow, we have our next live group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
   
     For today's video, we'll explore something quite subtle. This is something we're almost always doing when we talk to people, but are rarely aware of.   
 
@@ -218,7 +218,7 @@ sessions:
   email: |
     Here's the video of our second live session.
 
-    A few people shared stories of how meditation has affected them in their day to day lives. We shared our struggles of engaging with the practices. We discussed how our desire for self improvement and freedom from stress can actually undermine our innner development process. And quite a bit more.
+    A few people shared stories of how meditation has affected them in their day to day lives. We shared our struggles of engaging with the practices. We discussed how our desire for self-improvement and freedom from stress can actually undermine our inner development process. And quite a bit more.
 
     Endre mentioned something in his check-out that struck me. He said he's learned a lot about his own thoughts and emotions just by hearing about everyone else's experiences. I think this is a valuable benefit of working in a group like we are. We have so much more in common than not. And when we hear about our classmate's struggles or inner learnings, we often notice those same things in ourselves.
     
@@ -227,19 +227,19 @@ sessions:
   
 - name: Group Session Tomorrow 
   day: 44
-  email: Tomorrow, we have our next live group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+  email: Tomorrow, we have our next live group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
   
 - name: Group Session Tomorrow 
   day: 65
-  email: Tomorrow, we have our next live group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+  email: Tomorrow, we have our next live group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
   
 - name: Group Session Tomorrow 
   day: 79
-  email: Tomorrow, we have our next live group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+  email: Tomorrow, we have our next live group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
   
 - name: Final Group Session Tomorrow 
   day: 93
-  email: Tomorrow, we have our final group session and I'm excited chat with all of you again. Please email me right away if you can't make it for any reason.
+  email: Tomorrow, we have our final group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
 
 
 emails:
