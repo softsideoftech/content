@@ -225,9 +225,54 @@ sessions:
     If you weren't there, I hope you make the time to watch this before the weekend is up. I suspect you'll find the time well spent.
 
   
-- name: Group Session Tomorrow 
+- name: Our Addictions
+  url: our-addictions
+  day: 36
+  video: |
+    As we grew up, we often struggled with discomfort. We tried to either avoid stressful situations or calm ourselves down when we get too worked up. Eventually, we got pretty good at coping with it all. By accidental trial and error, we stumbled on strategies that worked for us.
+
+    This video calls attention to all the self-soothing habbits that we acquired along the way.
+  email: | 
+    As I was growing up, I often struggled with my discomforts. For years, I tried to either avoid stressful situations or calm myself down when I got too worked up. By the time I was in my mid-twenties, I had gotten pretty good at coping with it all. 
+    
+    By accidental trial and error, I stumbled on strategies that worked for me. Perhaps you went through a similar process. 
+  
+    This video is about all the self-soothing habbits that we acquired as we grew up.   
+  
+- name: Getting Our Bodies Back
+  day: 37
+  email: |
+    If the last video on our additions to self-soothing got you thinking and you really want to explore it more deeply, I have a book for you. It's called [Getting Our Bodies Back](https://www.amazon.com/dp/B00EYGHN06/).
+    
+    It's written by Christine Caldwell, a body-centered psychotherapist. She used to work with alcoholics and other addicts, and now she also helps people with their every-day addictions. 
+
+    Self-soothing can be far more subtle than the examples I gave in my last video. Christine shares far more of them in her book. She helped me realize many of my particular issues and showed me how I could work with them.
+
+- name: Noticing Discomfort
+  url: noticing-discomfort
+  day: 38
+  video: We all have self-soothing or self-numbing habbits, but why do we have them? Where do the impulses for those habbits come from?
+  email: You may be starting to notice some of your self-soothing or self-numbing habbits. The next step is to start to understand where your impulses come from. 
+
+- name: Cultivating Will
+  url: cultivating-will
+  day: 42
+  video: It takes immense Will to commit yourself to inner work. But "true will" doesn't feel like effort. Unlike "efforting", which feels tense and leaves us feeling depleted, true will is relaxed and feels like it has an infinite resouvoir.
+  email: | 
+    If you're finding it a struggle to keep up with all the ideas and practices in the course, you're not alone. It takes immense Will to commit yourself to inner work. 
+  
+    But "true will" doesn't feel like effort. Unlike "efforting", which feels tense and leaves us feeling depleted, true will is relaxed and feels like it has an infinite resouvoir.   
+
+- name: Reentering Our Tunnels
+  url: reentering-our-tunnels
   day: 44
-  email: Tomorrow, we have our next live group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
+  video: todo
+  email: |
+    We have our third group session tomorrow. Please reply right away if you think you might not make it (or know for sure that you won't).
+    
+    Today, we're revisting a topic that we've touched in passing a few times now: staying with our experience. When we struggle with discomfort, our instict is to make it go away. Our habbitual "survival" strategies kick in before our conscious mind knows what's happening, so we never have a chance to simply "be" with whatever is coming up for us.
+    
+    This video is about waking up to our usual pattern and developing a new habbit in its place.
   
 - name: Group Session Tomorrow 
   day: 65
