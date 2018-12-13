@@ -254,6 +254,19 @@ sessions:
   video: We all have self-soothing or self-numbing habbits, but why do we have them? Where do the impulses for those habbits come from?
   email: You may be starting to notice some of your self-soothing or self-numbing habbits. The next step is to start to understand where your impulses come from. 
 
+- name: Optional One on One Sessions
+  day: 39
+  email: |
+    I'd like to give you the chance go deeper into your inner work via one-on-one conversations. I'm making myself available for two sessions between now and the end of the course. With the holidays coming up, my availability for the next month is spotty and then opens up in mid-January.
+    
+    You may use this link to schedule time for us to meet:
+
+    [https://calendly.com/softsideoftech/one-on-one-coaching/](https://calendly.com/softsideoftech/one-on-one-coaching/)
+    
+    Please be dillent about making the time that you schedule. I was surprised by how many people missed their appointments the last time around and I would like to avoid repeating that experience.
+    
+    I'm looking forward to connecting with you soon.
+
 - name: Cultivating Will
   url: cultivating-will
   day: 42
@@ -262,6 +275,10 @@ sessions:
     If you're finding it a struggle to keep up with all the ideas and practices in the course, you're not alone. It takes immense Will to commit yourself to inner work. 
   
     But "true will" doesn't feel like effort. Unlike "efforting", which feels tense and leaves us feeling depleted, true will is relaxed and feels like it has an infinite resouvoir.   
+
+- name: Sharing You Aim
+  day: 43
+  email: If you haven't already, please share what your "aim" will be for the next two weeks. You can simply reply to this email. And try to be as precise as possible with whatever you decide.
 
 - name: Reentering Our Tunnels
   url: reentering-our-tunnels
