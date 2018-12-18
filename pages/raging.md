@@ -1,8 +1,8 @@
 # Rediscovering My Rage
 
-![](https://d235962hz41e70.cloudfront.net/lion.jpeg)
+![](https://d235962hz41e70.cloudfront.net/raging-lion.jpeg)
 
-Stacya and I were out on a date. We were seated in the grand hall of a three-hundred-year-old building that was turned into a restaurant. While we were waiting for our drinks, I said something to her that she found frustrating. I can't remember what now. For some reason, I couldn't stand to see her frustrated at me over something so minor and I blurted out something cold and harsh. 
+<b>S</b>tacya and I were out on a date. We were seated in the grand hall of a three-hundred-year-old building that was turned into a restaurant. While we were waiting for our drinks, I said something to her that she found frustrating. I can't remember what now. For some reason, I couldn't stand to see her frustrated at me over something so minor and I blurted out something cold and harsh. 
 
 In seconds, we were both worked up and Stacya suddenly stood up and announced she was leaving. This was not something she'd normally do. But given my recent behavior towards her, she was being quite rational.
 
@@ -18,7 +18,7 @@ This is the story of how I got reacquainted with my rage and learned to be with 
 
 The first time I was in a state of uncontrolled rage, I was 10 years old and had gone on a 3-day overnight with my elementary school. By the last day, I was worn down, feeling hopelessly sad, crying to myself on and off. After a while, one of the sweetest girls in the class walked up and tried to comfort me. 
 
->> _I feel anxiety in my stomach as I write this. A part of me is afraid to share what I did next._ 
+> _I feel anxiety in my stomach as I write this. A part of me is afraid to share what I did next._ 
 
 She saw my pain and wanted to be there for me, but for some reason I wanted her to be gone. In that moment, I hated all love and goodness in the world and I couldn't bear her presence.
 
@@ -60,7 +60,7 @@ So when I was 33 years old, I enrolled in the New Ventures West year-long coachi
 
 On multiple occasions, the NVW faculty brought me to tears in our one-on-one coaching sessions. These weren't a couple of watery drops down my cheeks. These were of the sobbing, shaking, and face drenching variety. Within a few short conversations, I started to see parts of myself that I had long disowned and forgotten. I had re-experienced the pain of my past and was able to have compassion for my young, hurting self. 
 
->> _And I was never quite the same._
+> _And I was never quite the same._
 
 Immediately after getting back from my first 4-day NVW session, I started having [emotional conflicts with my boss](/the-safety-bubble) at work and with my wife at home.
 
@@ -98,7 +98,7 @@ For the first time, I was opening up to the possibility that maybe I was contrib
 
 Finally, she made a point that landed firmly on me: 
 
->> _My behavior was not OK. Venting my aggression on Stacya was never acceptable._
+> _My behavior was not OK. Venting my aggression on Stacya was never acceptable._
 
 Even though I felt that I couldn't control my actions, I was still responsible for them. As obvious as that sounds to me now, it didn't make sense for the longest time.
 
