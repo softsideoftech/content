@@ -16,7 +16,7 @@ This is the story of how I got reacquainted with my rage and learned to be with 
 
 The first time I was in a state of uncontrolled rage, I was 10 years old and had gone on a 3-day overnight with my elementary school. By the last day, I was worn down, feeling hopelessly sad, crying to myself on and off. After a while, one of the sweetest girls in the class walked up and tried to comfort me. 
 
-> I feel anxiety in my stomach as I write this. A part of me is afraid to share what I did next. 
+>> _I feel anxiety in my stomach as I write this. A part of me is afraid to share what I did next._ 
 
 She saw my pain and wanted to be there for me, but for some reason I wanted her to be gone. In that moment, I hated all love and goodness in the world and I couldn't bear her presence.
 
@@ -38,27 +38,27 @@ I learned to never let myself experience anything too intensely so I could avoid
 
 For the next 25 years, my lifeforce was dialed low. I would rarely feel particularly sad or scared or angry. And I would rarely feel much excitement or joy. Starting in my teens, I drank heavily almost every weekend just so I could melt my icy guard a bit and actually feel something. It helped at first. But after a while, my inner coolness would survive even a whole bottle of vodka.
 
-By my 20's, I had figured out that I wasn't able to enjoy life as much as others and I had resigned myself to that fate. Intellectually, I realized that I was repressing all the time. But I usually felt "fine" and rarely thought much of it.
+By my 20's, I had figured out that I wasn't able to enjoy life as much as others and I had resigned myself to that fate. Intellectually, I knew that I was repressing all the time, but I usually felt "fine" and rarely thought much of it.
 
-By my early 30's, I was starting to look increasingly successful on paper. I was married to a sweet, beautiful woman. I had two lovely little girls. I had money and status and power over teams of engineers. What more could I want?
+By my early 30's, I was starting to look increasingly successful on paper. I was married to a sweet, beautiful woman. I had two lovely little girls. I had money and status and power over teams of engineers.
 
-And yet I felt increasingly empty inside. I suspect I always had that sense of emptiness. But I was always working on improving my life and had made steady progress year after year, which kept my mind off of it and gave me hope that things would get better someday. 
+And yet, I felt increasingly empty inside. I suspect I always had that sense of emptiness. But I was constantly working on improving my life and had made steady progress year after year, which kept my mind off it and gave me hope that things would get better someday. 
 
 After having achieved so much, I was running out of plausible ideas of what else to improve. And so the emptiness came up more than ever. 
 
-I was starting to realize that more achievements wouldn't make me feel any fulfilled. And I was less and less content being just "fine". I wanted to get my joy back. I had memories of it from when I was little. But I didn't know where to start.
+I was starting to realize that more accomplishments wouldn't make me feel any fulfilled. And I was less and less content being just "fine". I wanted to get my joy back. I had memories of it from when I was little. But I didn't know where to start.
 
 I had heard from my friend and colleague, Barzel, of this coaching program called New Ventures West. He claimed it helped him grow on a personal level. And I saw what it did for him at work. He became a manager-coach. People loved him. They sought out his wisdom and guidance. 
 
 A part of me was envious of Barzel. After seeing him develop himself and help so many people, I believed that being a loving leader and coach for others was the best chance for my own fulfillment.
 
-So when I was 33 years old, I enrolled in the New Ventures West year-long coaching program. Little did I know that I was re-opening my pandora's box. 
+So when I was 33 years old, I enrolled in the New Ventures West year-long coaching program. Little did I know that I was opening a pandora's box. 
 
 ## Waking The Beast
 
-On multiple occasions, the NVW faculty brought me to tears in our one-on-one coaching sessions. These weren't a couple watery drops down my cheeks. These were of the sobbing, shaking, and face drenching variety. Within a few short conversations, I started to see parts of myself that I had long disowned and forgotten. I had re-experienced the pain of my past and was able to have compassion for my young, hurting self at the same time. 
+On multiple occasions, the NVW faculty brought me to tears in our one-on-one coaching sessions. These weren't a couple of watery drops down my cheeks. These were of the sobbing, shaking, and face drenching variety. Within a few short conversations, I started to see parts of myself that I had long disowned and forgotten. I had re-experienced the pain of my past and was able to have compassion for my young, hurting self. 
 
-I was never quite the same.
+>> _And I was never quite the same._
 
 Immediately after getting back from my first 4-day NVW session, I started having [emotional conflicts with my boss](/the-safety-bubble) at work and with my wife at home.
 
@@ -70,7 +70,7 @@ About a year after starting NVW, I got into a fight with Stacya (over what, I do
 
 This had been happening about once a month for the last few months. This time I became so enraged that my uncontrollable impulse to wreck something was just that, uncontrollable, just like it was when I was 10-years old.
 
-Out of nowhere, I shoved our 200-pound kitchen table so hard that everything sitting on it flew off to the floor. Our teapot shattered and I strained my shoulder and it still wasn't enough. I swung my leg to kick something that had fallen off. I missed whatever I was aiming for and the force of my leg lifted me off the ground and I fell onto my butt.
+Out of nowhere, I shoved our 200-pound kitchen table so hard that everything sitting on it flew off to the floor. Things shattered and I strained my shoulder and it still wasn't enough. I swung my leg to kick something that had fallen off. I missed whatever I was aiming for and the force of my leg lifted me off the ground and I fell onto my butt.
 
 It was so ridiculous that Stacya laughed. I was calm now and almost laughed myself. But I was too embarrassed at my behavior to try to make up. So I pretended to hold onto my anger and stormed off to a cafe for the afternoon.
 
@@ -92,31 +92,31 @@ As I brought up Stacya's role in our fights, I became increasingly forceful with
 
 Kindly, gently, our therapist helped me notice what was going on. This happened repeatedly and I slowly started to notice my aggression.
 
-For the first time, I was opening up to the possibility that maybe I was contributing far more to our fights more than Stacya. 
+For the first time, I was opening up to the possibility that maybe I was contributing far more to our fights than Stacya. 
 
 Finally, she made a point that landed firmly on me: 
 
 >> _My behavior was not OK. Venting my aggression on Stacya was never acceptable._
 
-Even though I felt that I couldn't control my actions, I was still responsible for them. 
+Even though I felt that I couldn't control my actions, I was still responsible for them. As obvious as that sounds to me now, it didn't make sense for the longest time.
 
-As obvious as that sounds to me now, it didn't make sense for the longest time. I mean, how could I take responsibility for something that I had no control over? 
-
-Somehow, our therapist got through to me and I resolved to do better. Though I didn't know how at the time.
+I resolved to do better. Though I didn't know how at the time.
 
 ## Acting Responsibly
 
-Around this time I had gotten back to meditating regularly. I had also just started going to [Diamond Approach](https://www.diamondapproach.org/) weekend retreats, which involved a lot more meditating, noticing my thoughts, and staying with my inner experience.  
+Around this time I returned to meditating regularly. I also just started going to [Diamond Approach](https://www.diamondapproach.org/) weekend retreats, which involved a lot more meditating, noticing my thoughts, and staying with my inner experience.  
 
-And when the fight at our dinner date came along, I was newly determined (and better prepared) to stay with that experience. I would not try to shake it off by acting out the violent thoughts that were coming to my mind. I would not try to numb myself by reading news on my phone. I would not have a bunch of drinks at the bar. 
+And when the fight at our dinner date came along, I was newly determined and better prepared to stay with that experience. 
 
 So as Stacya got up and left with indignation, I just sat there for a while. I may have appeared calm, but on the inside, I was on fire. I was internally shaking and needed to do something, anything.  
 
-I alternated between feeling my rage--towards Stacya towards myself --and noticing what was happening for me. How my body was flaring hot, particularly my chest, face, and arms. How I was struggling to sit still. And all the thoughts I was having about the situation.  
+I did not try to shake it off by acting out the violent thoughts that were coming to my mind. I did not try to numb myself by reading news on my phone. I did not have a bunch of drinks at the bar. 
 
-I was ashamed for my part in it. I was furious at Stacya's "overreaction". I could sense my desire for violence, but I could also see that there was no point in it. 
+I alternated between feeling my rage--towards Stacya, towards myself --and noticing what was happening for me. How my body was flaring hot, particularly my chest, face, and arms. How I was struggling to sit still. And all the thoughts I was having about the situation.  
 
-I wasn't able to tolerate just sitting there, so after a few minutes, I got up, paid for our drinks, and walked outside.
+I could sense my desire for violence but it didn't take me over. I was able to see it without acting on it.
+
+But I couldn't tolerate just sitting there, so after a few minutes, I got up, paid for our drinks, and walked outside.
 
 I desperately wanted to calm down, but I couldn't. So I kept walking. And kept going from feeling angry at how unfair and unreasonable Stacya was, to feeling pity for myself, to noticing the whole ordeal in my mind and just trying to "be" with it.
 
