@@ -278,7 +278,12 @@ sessions:
 
 - name: Sharing Your Aim
   day: 43
-  email: If you haven't already, please share what your "aim" will be for the next two weeks. You can simply reply to this email. And try to be as precise as possible with whatever you decide.
+  email: |
+    If you haven't already, please share what your "aim" will be for the next two weeks. You can simply reply to this email. And try to be as precise as possible with whatever you decide.
+  
+    As a reminder, an aim is an intention that you will set for the next two weeks. It should be something that will make your life function better and be realistically achievable for you. This is _not_ a stretch goal.  
+    
+    I'm looking forward to hearing from you.
 
 - name: Reentering Our Tunnels
   url: reentering-our-tunnels

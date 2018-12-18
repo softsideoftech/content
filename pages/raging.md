@@ -1,12 +1,12 @@
 # Working With My Rage
 
-Stacya and I had gotten a babysitter and went out on a date. We were seated in the grand hall of a three-hundred-year-old building that was turned into a restaurant. While we were waiting for our drinks, I said something to her that she found frustrating. I can't remember what now. For some reason, I couldn't stand to see her frustrated at me over something so minor and I blurted out something cold and harsh. 
+Stacya and I were out on a date. We were seated in the grand hall of a three-hundred-year-old building that was turned into a restaurant. While we were waiting for our drinks, I said something to her that she found frustrating. I can't remember what now. For some reason, I couldn't stand to see her frustrated at me over something so minor and I blurted out something cold and harsh. 
 
 In seconds, we were both worked up and Stacya suddenly stood up and announced she was leaving. This was not something she'd normally do. But given my recent behavior towards her, she was being quite rational.
 
 In an instant, intense energy rushed through my entire body, particularly my chest, face, and arms. All kinds of violent possibilities raced through my mind: cursing at her as she walked away, flipping our table over, jumping to my feet with such force that my chair would fly back--anything to get the energy out. 
 
-The only thing that saved us from embarrassment was the fact that we were in a public place and some part of me cared enough about public tranquility to hold my rage on the inside.     
+The only thing that saved us from embarrassment was the fact that we were in a public place and some part of me cared enough about public tranquility to hold my rage in.     
 
 And this was a huge improvement over how I had behaved in recent months. I now remember this day as a positive turning point for my relationship with Stacya and my rage. 
 
@@ -14,11 +14,13 @@ This is the story of how I got reacquainted with my rage and learned to be with 
 
 ## My First Rage
 
-The first and last time I was in a state of uncontrolled rage, I was 10 years old and had gone on a 3-day overnight with my elementary school. By the last day, I was worn down, feeling hopelessly sad, crying to myself on and off. After a while, one of the sweetest girls in the class walked up tried to comfort me. 
+The first time I was in a state of uncontrolled rage, I was 10 years old and had gone on a 3-day overnight with my elementary school. By the last day, I was worn down, feeling hopelessly sad, crying to myself on and off. After a while, one of the sweetest girls in the class walked up and tried to comfort me. 
 
 > I feel anxiety in my stomach as I write this. A part of me is afraid to share what I did next. 
 
-I couldn't stand her. I wanted her to be gone. But she saw through my pain and wanted to be there for me. I had an overwhelming energy rush through me and all I wanted to do was annihilate her. I lunged at her and clawed at her arm. I wanted to hurt her. She was taken aback, but it wasn't enough for me. I went at her again. This time I scratched her so hard she was three streaks of shiny red on her arm. I drew blood. 
+She saw my pain and wanted to be there for me, but for some reason I wanted her to be gone. In that moment, I hated all love and goodness in the world and I couldn't bear her presence.
+
+I had an overwhelming energy rush through me and all I wanted to do was annihilate her. I lunged at her and clawed at her arm. I wanted to hurt her. She was taken aback, but it wasn't enough for me. I went at her again. This time I scratched her so hard she had three streaks of shiny red on her arm. I drew blood. 
 
 I was satisfied and simultaneously horrified by what I did. 
 
@@ -30,7 +32,9 @@ For my last two and a half years of elementary school, I was a pariah. No one wo
 
 ## Coping
 
-And so I learned to repress. I learned to ignore the pain of feeling so completely ostracized. I learned to never let myself experience anything too intensely so I could avoid getting worked up and accidentally do something that I would forever regret. After a while, it became habit--an instinct.
+And so I learned to repress my emotions to avoid the pain of being ostracized. 
+
+I learned to never let myself experience anything too intensely so I could avoid getting worked up and accidentally do something that I would forever regret. After a while, it became habit--an instinct.
 
 For the next 25 years, my lifeforce was dialed low. I would rarely feel particularly sad or scared or angry. And I would rarely feel much excitement or joy. Starting in my teens, I drank heavily almost every weekend just so I could melt my icy guard a bit and actually feel something. It helped at first. But after a while, my inner coolness would survive even a whole bottle of vodka.
 
