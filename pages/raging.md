@@ -2,7 +2,7 @@
 
 Stacya and I had gotten a babysitter and went out on a date. We were seated in the grand hall of a three-hundred-year-old building that was turned into a restaurant. While we were waiting for our drinks, I said something to her that she found frustrating. I can't remember what now. For some reason, I couldn't stand to see her frustrated at me over something so minor and I blurted out something cold and harsh. In seconds, we were both worked up and Stacya suddenly stood up an announced she was leaving. This was not something she'd normally do. But given my recent behavior towards her, she was being quite rational.
 
-In an instant, an overwhelming energy rushed through my whole body, particularly my chest, face, and arms. It was accompanied by violent thoughts of all kinds: cursing at her as she walked away, flipping our table over, jumping to my feet with such force that my chair would fly back--anything to get the energy out. The only thing that saved us from embarrassment was the fact that we were in a public place and some part of me cared enough about public tranquility to hold my rage on the inside.     
+In an instant, overwhelming energy rushed through my whole body, particularly my chest, face, and arms. It was accompanied by violent thoughts of all kinds: cursing at her as she walked away, flipping our table over, jumping to my feet with such force that my chair would fly back--anything to get the energy out. The only thing that saved us from embarrassment was the fact that we were in a public place and some part of me cared enough about public tranquility to hold my rage on the inside.     
 
 This was actually a huge improvement over how I had behaved in recent months. I now remember this day as a positive turning point for my relationship with Stacya. 
 
@@ -12,7 +12,7 @@ This is the story of how I got reacquainted with my rage and learned to be with 
 
 The first and last time I was in a state of uncontrolled rage, I was 10 years old and had just moved to a new elementary school. We were on a 3-day overnight trip to a ranch to learn about farm life and build some independence. By the last day, I was worn down and feeling a deep sadness. I felt hopeless and was crying to myself on an off. After a while, one of my classmates, probably the sweetest girl there, came up to me and tried to cheer me up. 
 
-> I feel an anxiety in my stomach as I write what happened next. A part of me is afraid to share what I did next. 
+> I feel anxiety in my stomach as I write what happened next. A part of me is afraid to share what I did next. 
 
 I couldn't stand her. I wanted her to be gone. But she saw through my pain and wanted to be there for me. I had an overwhelming energy rush through me and all I wanted to do was annihilate her. I lunged at her and clawed at her arm. I wanted to hurt her. She was taken aback, but it wasn't enough for me. I went at her again. This time I scratched her so hard she was three streaks of shiny red on her arm. I drew blood. 
 
@@ -42,7 +42,7 @@ I had heard from my friend and colleague, Barzel, of this coaching program calle
 
 So when I was 33, five years after Barzel did his coaching program, I also enrolled. Little did I know that I was re-opening my pandora's box. 
 
-## Waking Up
+## Waking The Beast
 
 On multiple occasions, the NVW faculty brought me to tears in our one-on-one coaching sessions. These weren't a couple watery drops down my cheeks. These were of the sobbing, shaking, and face drenching variety. With a few short conversations, they helped me see parts of myself that I had disowned and forgotten. I briefly re-experienced the pain of my past and was able to have compassion for my young, hurting self at the same time. 
 
@@ -64,3 +64,52 @@ What really bothered both of us was the effect it might have been having on our 
 
 My older daughter started telling me that she's worried we might get a divorce. It seemed like a ridiculous idea to me and I was surprised that she would think such a thing. Of course, she's known kids at school with divorced parents and I was giving her plenty of reasons to fear it.
 
+## Taking Responsibility
+
+Despite all the emotional damage I was causing, I didn't really believe that there was anything wrong with what I was doing. I mean, I couldn't help it, right? And if I had no control, then what's the point of beating myself up over it by labeling it as "bad" or "wrong"?
+
+I remember feeling that Stacya's contribution to these situations was something like 60%. So when we started couples therapy, I was looking forward to our therapist helping her see that. Except the conversations didn't quite go that way.
+
+It was true that Stacya often didn't see where I was coming from and reacted with judgment towards me. And that came up in therapy. But the bigger issue that the sessions always devolved to was how aggressive I was. This would happen right there with the three of us.
+
+I wasn't blowing up, but I was directing my body language to emotional energy at Stacya as if I could energetically force her to open up to my point of view.
+
+Our therapist would help me notice that as it was happening and before it got out of control. After witnessing myself repeatedly "caught in the act", I started to open up to the possibility that maybe it was mostly my contribution, not Stacya's. 
+
+Finally, she made a point that landed firmly on me: 
+
+>> _My behavior was not ok. And only I was responsible for it._
+
+As obvious as that sounds to me now, it was anything but. It didn't feel like I was making a conscious decision to blow up on Stacya when I got overwhelmed.
+
+I resolved to find another way.
+
+## Acting Responsibly
+
+Around this time I had gotten back to meditating regularly. I had also just started going to Diamond Approach weekend retreats, which involved a lot more meditating, noticing my thoughts and staying with my inner experience.  
+
+When the fight at our dinner date came along, I was newly determined to stay with that experience. I would not try to shake it off by acting out the violent thoughts that were coming to my mind. I would not try to numb myself by reading news on my phone. I would not have a bunch of drinks at the bar. 
+
+So as Stacya got up and left with her fear and indignation, I just sat there for a while. I may have appeared calm, but on the inside, I was on fire. I was internally shaking and needed to do something, anything.  
+
+I alternated between feeling my rage--towards Stacya towards myself --and noticing what was happening for me. How my body was flaring hot, particularly my chest, face, and arms. How I was struggling to sit still. And all the thoughts I was having about the situation.  
+
+I was ashamed for my part in it. I was furious at Stacya's "overreaction". I could sense my desire for violence, but I could also see that there was no point in it. 
+
+I wasn't able to tolerate just sitting there, so after a few minutes, I got up, paid for our drinks, and walked outside.
+
+I desperately wanted to calm down, but I couldn't. So I kept walking. And kept going from being angry at how unfair and unreasonable Stacya was, to feeling sorry for myself, to noticing the whole affair in my mind and just trying to "be" with it.
+
+Little by little, it seemed to work. After half an hour, I was down to simmering anger. Another fifteen minutes and I was totally calm, though a bit embarrassed for how I acted. And so I came home to Stacya and was able to make up.
+
+## Living With It
+
+I've since learned that my style of energetic "acting out" is one of a handful of survival strategies kids inadvertently adopt as they're growing up. 
+
+But acting out is a choice, even though it didn't feel like it to me until recently. I've learned that I can still stay with my experience when I'm feeling overwhelmed--and I have been a few more times since the restaurant episode. 
+
+I've found that if I notice it early enough, I can observe what's going on for me and take steps to soothe and comfort myself before I explode. 
+
+I also started noticing my issues underneath the rage, which I didn't know I had. In those moments of unbearable pain, I discovered I felt intensely ashamed of myself and utterly worthless. 
+
+More on that another time.
