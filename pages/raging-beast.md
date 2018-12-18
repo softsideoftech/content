@@ -1,4 +1,4 @@
-# Rediscovering My Rage
+# Waking My Raging Beast
 
 ![](https://d235962hz41e70.cloudfront.net/raging-lion.jpeg)
 
