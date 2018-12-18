@@ -1,4 +1,6 @@
-# Working With My Rage
+# Rediscovering My Rage
+
+![](https://d235962hz41e70.cloudfront.net/lion.jpeg)
 
 Stacya and I were out on a date. We were seated in the grand hall of a three-hundred-year-old building that was turned into a restaurant. While we were waiting for our drinks, I said something to her that she found frustrating. I can't remember what now. For some reason, I couldn't stand to see her frustrated at me over something so minor and I blurted out something cold and harsh. 
 
