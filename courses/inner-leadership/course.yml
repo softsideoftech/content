@@ -288,7 +288,10 @@ sessions:
   - name: Reentering Our Tunnels
     url: reentering-our-tunnels
     day: 44
-    video: todo
+    video: |
+      We're revisting a topic that we've touched in passing a few times now: staying with our experience. When we struggle with discomfort, our instict is to make it go away. Our habbitual "survival" strategies kick in before our conscious mind knows what's happening, so we never have a chance to simply "be" with whatever is coming up for us.
+
+      This video is about waking up to our usual pattern and developing a new habbit in its place.
     email: |
       We have our third group session tomorrow. Please reply right away if you think you might not make it (or know for sure that you won't).
 
@@ -321,7 +324,16 @@ sessions:
 
       And on that note, Inner Leadership will be taking on vacation next week, so no videos or emails for you to keep an eye out for. We'll resume on Tuesday January 2nd.
 
-
+  - name: Happy New Year Gift
+    day: 53
+    email: |
+      I'm touched to be entering the new year working with you in this intimate way.
+      
+      Our usual twice-weekly videos will resume tomorrow morning.
+      
+      I previously mentioned [Headspace](https://www.headspace.com/headspace-meditation-app) as a great meditation app. I've also heard from a couple of you and one of my friends that [Waking Up](https://wakingup.com/) is a good alternative. I was on their mailing list and just got this New Year's offer for a [free first month of Waking Up](https://samharris.us2.list-manage.com/track/click?u=1ee4348d0101136a85c13bc49&id=2eff1a2232&e=6a6ec2220b). 
+      
+      I'm passing it along in case you want to try it out. Happy New Years :)
 
   - name: Group Session Tomorrow
     day: 65
