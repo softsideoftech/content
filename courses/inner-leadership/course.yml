@@ -324,18 +324,41 @@ sessions:
 
       And on that note, Inner Leadership will be taking on vacation next week, so no videos or emails for you to keep an eye out for. We'll resume on Tuesday January 2nd.
 
-  - name: Happy New Year Gift
-    day: 53
+  - name: Personality Parts
+    url: personality-parts
+    day: 58
+    video: Our personality is not the cohesive whole that we take it to be. It's actually built up of lots of "parts". Each part came into being at a different time in our lives, mostly while we were very young.
     email: |
       I'm touched to be entering the new year working with you in this intimate way.
       
-      Our usual twice-weekly videos will resume tomorrow morning.
+      Today, we're resuming our usual twice-weekly videos.
       
+      This one is about how personality is not the cohesive whole that we take it to be. It's actually built up of lots of "parts". Each part came into being at a different time in our lives, mostly while we were very young.
+      
+  - name: Waking Up
+    day: 59
+    email: |
       I previously mentioned [Headspace](https://www.headspace.com/headspace-meditation-app) as a great meditation app. I've also heard from a couple of you and one of my friends that [Waking Up](https://wakingup.com/) is a good alternative. I was on their mailing list and just got this New Year's offer for a [free first month of Waking Up](https://samharris.us2.list-manage.com/track/click?u=1ee4348d0101136a85c13bc49&id=2eff1a2232&e=6a6ec2220b). 
-      
-      I'm passing it along in case you want to try it out. Happy New Years :)
 
-  - name: Group Session Tomorrow
+      I'm passing it along in case you want to try it out.
+      
+
+  - name: Faking
+    url: faking
+    day: 60
+    video: Have you ever been really present for someone, perhaps in their moment of need, and felt drained afterwards? If so, it may have been your "presence-like" part that helped you stay present and compassionate.
+    email: Have you ever been really present for someone, perhaps in their moment of need, and felt drained afterwards? If so, it may have been your "presence-like" part that helped you stay present and compassionate. 
+
+  - name: Essencial Qualities
+    url: essencial-qualities
+    day: 63
+    video: When we were young, our personality parts arose to cover up our feelings of defficiency. But those empty spots we feel inside are actually blockages. We already have everything inside of us that we think we're missing. Those missing aspects are I'm calling Essencial Qualities.
+    email: |
+      This video is what our course is all about.
+      
+      When we were young, our personality parts arose to cover up our feelings of defficiency. But those empty spots we feel inside are actually blockages. We already have everything inside of us that we think we're missing. Those missing aspects are I'm calling Essencial Qualities.   
+
+  - name: Compassion
     day: 65
     email: Tomorrow, we have our next live group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
 
