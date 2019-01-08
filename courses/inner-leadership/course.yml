@@ -367,9 +367,14 @@ sessions:
       I had a mini-tranformation when I first read and applied the insights in this book :)
 
 
-  - name: Compassion
+  - name: Group Session Tomorrow
     day: 65
-    email: Tomorrow, we have our next live group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
+    email: | 
+      Our fourth group session is tomorrow. I'm excited to connect with you again. Please email me right away if you can't make it for any reason.
+      
+      I made last minute travel plans to spend some time with my sister, so I didn't have time to record a video for you today. You can expect to see it Tuesday next week.
+      
+      Hope to see you tomorrow.
 
   - name: Group Session Tomorrow
     day: 79
