@@ -435,9 +435,25 @@ sessions:
       
       I'm looking forward to reconnecting with you.
 
+  - name: (Live Recording) 5th Group Call
+    url: fifth-group-call
+    day: 81
+    video: |
+      Often, we don't realize when we're experiencing our deficiencies. A lot of the time we just think there's something wrong with another person or people around us. We're convicned that it's something _they_ said or did that is the problem. _They_ are the reason we feel the way we do.
+
+      Let's look at this a little deeper.
+    email: |
+      We had a warm and uplifting conversation today. Shane, Matt, Chris, and Ferhat shared their reflections on the past three months. I was touched by how open everyone was with their struggles and astounded by their shifts in perspective.
+
+      Endre joined in towards the end and shared how afraid he's been to look into those parts of himself and yet how freeing it's been for him to start down that path.
+
+      There was a lot of love in the room today. If you weren't there, you'll might still enjoy basking in it as you watch the recording.  
+
   - name: Final Group Session Tomorrow
     day: 93
     email: Tomorrow, we have our final group session and I'm excited to chat with all of you again. Please email me right away if you can't make it for any reason.
+
+
 
 
 emails:
