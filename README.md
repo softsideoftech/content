@@ -4,4 +4,4 @@ The history of this includes all the pages and stories on the site and emails se
 
 All content is subject to copyright.
 
-Copyright © 2018 Vladimir Giverts. All Rights Reserved.
+Copyright © 2019 Vladimir Giverts. All Rights Reserved.
