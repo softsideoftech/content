@@ -508,7 +508,20 @@ sessions:
     day: 93
     email: Tomorrow, we will have our final session as a group. I'm both eager and sad to reconnect with you in this way for one last time. I hope you're able to make it.
 
+  - name: (Live Recording) 6th Group Call
+    url: sixth-group-call
+    day: 95
+    video: This was the final group session of the Inner Leadership course. We touched on the effects of meditation (both the positive and--surprisingly--negative), the struggle of being with our emotions instead of repressing them or dumping them on others, and several other topics.
+    email: |
+      Here is the recording of our final group session.
+      
+      We touched on the effects of meditation (both the positive and--surprisingly--negative), the struggle of being with our emotions instead of repressing them or dumping them on others, and several other topics.
 
+      I could sense in our checkout that it's been a touching experience for us all.
+      
+      I'll miss you. 
+      
+      But perhaps I don't have to. Stay tuned for more on that in the coming weeks...
 
 
 emails:
